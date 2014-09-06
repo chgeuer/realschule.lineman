@@ -45,6 +45,10 @@ module.exports = function(lineman) {
     // via grunt-asset-fingerprint
     //
     // enableAssetFingerprint: false
-
+    less: {
+      options: {
+        paths: ["app/css", "vendor/css"]
+      }
+    }
   };
 };

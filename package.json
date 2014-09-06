@@ -1,18 +1,21 @@
 {
-  "name": "some-lineman-blog",
-  "title": "An HTML/JS/CSS blog with markdown posts",
+  "name": "realschule-golzheim-website",
+  "title": "Internet-Präsenz der Realschule Golzheim",
   "version": "0.0.1",
   "private": true,
   "author": {
-    "name": "John Doe",
-    "company": "ACME, Inc."
+    "name": "Dr Christian Geuer-Pollmann",
+    "company": ""
+  },
+  "scripts": {
+    "start": "lineman run",
+    "test": "lineman spec-ci"
   },
   "dependencies": {
     "lineman": ">= 0.21.3",
     "lineman-blog": ">= 0.0.1"
   },
-  "scripts": {
-    "start": "lineman run",
-    "test": "lineman spec-ci"
+  "devDependencies": {
+    "lineman-less": "^0.1.0"
   }
 }
