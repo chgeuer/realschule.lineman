@@ -16,6 +16,8 @@
     "lineman-blog": ">= 0.0.1"
   },
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-markdown-blog": "^0.3.5",
     "lineman-less": "^0.1.0"
   }
 }

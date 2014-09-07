@@ -52,17 +52,17 @@
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="{{ site.url }}/">Realschule Düsseldorf Golzheim</a></li>
-                <li><a href="{{ site.url }}/impressum/">Impressum</a></li>
-                <li><a href="{{ site.url }}/haftungsausschluss/">Haftungsausschluss</a></li>
-                <li><a href="{{ site.url }}/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
-                <li><a href="{{ site.url }}/archiv/">Archiv</a></li>
+                <li><a href="<%= markdown.options.url %>/">Realschule Düsseldorf Golzheim</a></li>
+                <li><a href="<%= markdown.options.url %>/impressum/">Impressum</a></li>
+                <li><a href="<%= markdown.options.url %>/haftungsausschluss/">Haftungsausschluss</a></li>
+                <li><a href="<%= markdown.options.url %>/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
+                <li><a href="<%= markdown.options.url %>/archiv/">Archiv</a></li>
             </ul>
         </div>
     </footer>
 
     <script>
-      var golzheim_site_url = "{{ site.url }}"; 
+      var golzheim_site_url = "<%= markdown.options.url %>"; 
     </script>
     <script type="text/javascript" src="<%= js %>"></script>
     <script>

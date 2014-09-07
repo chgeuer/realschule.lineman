@@ -6,10 +6,20 @@ are, try running `lineman config markdown` or looking in:
 module.exports = (lineman) ->
   config:
     markdown:
+      dev:
+        options:
+          url: "http://xxx"
       options:
-        author: "FirstName LastName"
-        title: "my lineman blog"
-        description: "where I post all my brilliant ideas"
-        url: "http://www.mylinemanblog.com"
+        author: "Realschule Golzheim"
+        title: "Homepage der Realschule Golzheim"
+        description: ""
+        url: "http://localhost:8000"
+        layouts: 
+          wrapper: "app/templates/wrapper.us"
+          archive: "app/templates/blog.us"
+        paths: 
+          index: "index.html",
+          archive: "blog.html",
+          rss: "index.xml"
         rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation
         #disqus: "my_disqus_name" #<-- uncomment and set your disqus account name to enable disqus support

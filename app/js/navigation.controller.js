@@ -11,6 +11,10 @@
             $interpolateProvider.endSymbol(']]');
         }]);
 
+    angular
+        .module('app')
+        .controller('Navigation', ["$scope", "$http", "$location", navigation]);
+
     function setActiveClassAttribute(data, currentLocation, siteUrl) {
         var dataLength = data.length;
         for (var i = 0; i < dataLength; i++) {
@@ -153,8 +157,4 @@
             });
         }
     }
-
-    angular
-        .module('app')
-        .controller('Navigation', ["$scope", "$http", "$location", navigation]);
 })();
