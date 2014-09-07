@@ -11,30 +11,7 @@
             $interpolateProvider.endSymbol(']]');
         }]);
 
-    angular
-        .module('app')
-        .controller('Navigation', ["$scope", "$http", "$location", Navigation]);
-
-    function Navigation($scope, $http, $location) {
-        var siteUrl = golzheim_site_url;
-        console.log("Configured site URL: \"" + siteUrl + "\""); // This comes via base_scripts.html include file
-
-        $scope.locationpath = $location.path();
-        $scope.locationwindow = window.location.href;
-
-        var offline = true;
-        if (offline) {
-            $scope.data = getNavigationData(siteUrl + "/");
-            SetActiveClassAttribute($scope.data, $scope.locationwindow, siteUrl);
-        } else {
-            $http.get('api/Navigation').success(function (data) {
-                $scope.data = data;
-                SetActiveClassAttribute($scope.data, $scope.locationwindow, siteUrl);
-            });
-        }
-    }
-
-    function SetActiveClassAttribute(data, currentLocation, siteUrl) {
+    function setActiveClassAttribute(data, currentLocation, siteUrl) {
         var dataLength = data.length;
         for (var i = 0; i < dataLength; i++) {
             var item = data[i];
@@ -46,7 +23,7 @@
             }
 
             var children = item.children || [];
-            SetActiveClassAttribute(children, currentLocation, siteUrl);
+            setActiveClassAttribute(children, currentLocation, siteUrl);
         }
     }
 
@@ -157,4 +134,27 @@
 
         return data;
     }
+
+    function navigation($scope, $http, $location) {
+        var siteUrl = golzheim_site_url;
+        console.log("Configured site URL: \"" + siteUrl + "\""); // This comes via base_scripts.html include file
+
+        $scope.locationpath = $location.path();
+        $scope.locationwindow = window.location.href;
+
+        var offline = true;
+        if (offline) {
+            $scope.data = getNavigationData(siteUrl + "/");
+            setActiveClassAttribute($scope.data, $scope.locationwindow, siteUrl);
+        } else {
+            $http.get('api/Navigation').success(function (data) {
+                $scope.data = data;
+                setActiveClassAttribute($scope.data, $scope.locationwindow, siteUrl);
+            });
+        }
+    }
+
+    angular
+        .module('app')
+        .controller('Navigation', ["$scope", "$http", "$location", navigation]);
 })();

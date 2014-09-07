@@ -1,0 +1,39 @@
+
+<!--
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet">
+-->
+
+<!--<link href="{{ site.url }}/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">-->
+<link href="{{ site.url }}/bower_components/bootswatch/yeti/bootstrap.min.css" rel="stylesheet">
+<link href="{{ site.url }}/bower_components/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ site.url }}/css/opensans.css" rel="stylesheet">
+
+<style type="text/css">
+	/* http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know */
+	@media only screen and (min-width : 768px) {
+	    /* Make Navigation Toggle on Desktop Hover */
+	    .dropdown:hover .dropdown-menu { display: block; }
+	}
+
+	/* Für die Seiten-Navigation */
+    @media (min-width: 768px) {
+        .sidebar-nav .navbar .navbar-collapse { padding: 0; max-height: none; }
+        .sidebar-nav .navbar ul { float: none; }
+        .sidebar-nav .navbar ul:not { display: block; }
+        .sidebar-nav .navbar li { float: none; display: block; }
+        .sidebar-nav .navbar li a { padding-top: 12px; padding-bottom: 12px; }
+    }
+
+    /* uncomment if you would like the menu to be fixed 
+    @media (min-width: 768px) {  .navbar { position: fixed; width: 170px; z-index: 2; } }
+    */
+    @media (min-width: 992px) { .sidebar-nav { width: 212px; } }
+    @media (min-width: 1200px) { .sidebar-nav { width: 262px; } }
+    .sidebar-nav .navbar-header { float: none; }
+
+    /* Damit das dropdown-menu leicht hellblau ist beim aufklappen */
+    .navbar .dropdown-menu>li>a { background-color: #4DAECF; }
+</style>

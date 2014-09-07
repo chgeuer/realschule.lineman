@@ -1,23 +1,81 @@
 <!DOCTYPE html>
-<html>
+<html lang="de" data-ng-app="app">
   <head>
     <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
     <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="/index.xml" />
     <title><%= site.title %><%= post ? ' - '+post.title() : '' %></title>
   </head>
-  <body>
-    <header>
-      <h1><%= site.title %></h1>
-      <nav>
-        <a href="/">home</a> | <a href="/archive.html">archives</a> | <a href="/about.html">about</a>
-      </nav>
-    </header>
+  <body class="full-page {{page.body_css}}" data-ng-controller="Navigation">
+    <div class="container-fluid content-container">
+        <div class="row">
+            <div class="col-sm-4 col-md-3 hidden-print">
+                <div class="sidebar-nav">
+                    <div class="navbar navbar-default navbar-inverse" role="navigation">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <span class="visible-xs navbar-brand">Realschule Golzheim</span>
+                        </div>
+                        <div class="navbar-collapse collapse sidebar-navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                <li data-ng-repeat="n0 in data" data-ng-class="{ active: n0.active }">
+                                    <a href="[[n0.url]]" class="[[n0.children && 'dropdown-toggle' || '']]" data-toggle="[[n0.children && 'dropdown' || '']]">[[n0.name]] <b ng-show="n0.children" class="caret"></b></a>
+                                    <ul class="dropdown-menu" data-ng-show="n0.children">
+                                        <li data-ng-class="{ active: n0.active }"><a href="[[ n0.url ]]">[[ n0.name ]]</a></li>
+                                        <li class="divider"></li>
+                                        <li class="dropdown-header">Artikel</li>
+                                        <li ng-repeat="n1 in n0.children" data-ng-class="{ active: n1.active }">
+                                            <a href="[[n1.url]]">[[n1.name]]</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-8 col-md-9 main-content">
+                <h1>{{ page.title }}</h1>
+                <div><%= yield %></div>
+            </div>
+        </div>
+    </div>
 
-    <%= yield %>
-
-    <footer>
+   <footer>
       Copyright <%= site.author %>, <%= new Date().getFullYear() %>.
     </footer>
+    <footer class="footer"
+          style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
+        <div class="container">
+            <ul class="nav navbar-nav">
+                <li><a href="{{ site.url }}/">Realschule Düsseldorf Golzheim</a></li>
+                <li><a href="{{ site.url }}/impressum/">Impressum</a></li>
+                <li><a href="{{ site.url }}/haftungsausschluss/">Haftungsausschluss</a></li>
+                <li><a href="{{ site.url }}/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
+                <li><a href="{{ site.url }}/archiv/">Archiv</a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script>
+      var golzheim_site_url = "{{ site.url }}"; 
+    </script>
     <script type="text/javascript" src="<%= js %>"></script>
+    <script>
+    $('.dropdown-toggle').click(function() {
+        var location = $(this).attr('href');
+        window.location.href = location;
+        return false;
+    });
+    $(function() {
+      $('.collapse.show-footer').on('show', function () {
+        $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+      });
+    });
+    </script>
   </body>
 </html>

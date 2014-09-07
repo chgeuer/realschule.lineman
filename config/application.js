@@ -50,6 +50,7 @@ module.exports = function(lineman) {
             "paths": ["app/css", "vendor/css"]
         }
     },
+
     "markdown": {
         "options": {
             "author": "Realschule Golzheim",
@@ -65,6 +66,12 @@ module.exports = function(lineman) {
                 "archive": "blog.html",
                 "rss": "index.xml"
             }
+        }
+    },
+
+    "jshint": {
+        "options": {
+            "latedef": false
         }
     }
   };
