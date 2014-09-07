@@ -45,10 +45,27 @@ module.exports = function(lineman) {
     // via grunt-asset-fingerprint
     //
     // enableAssetFingerprint: false
-    less: {
-      options: {
-        paths: ["app/css", "vendor/css"]
-      }
+    "less": {
+        "options": {
+            "paths": ["app/css", "vendor/css"]
+        }
+    },
+    "markdown": {
+        "options": {
+            "author": "Realschule Golzheim",
+            "title": "Homepage der Realschule Golzheim",
+            "description": "",
+            "url": "http://www.mylinemanblog.com",
+            "layouts": {
+                "wrapper": "app/templates/wrapper.us",
+                "archive": "app/templates/blog.us"
+            },
+            "paths": {
+                "index": "index.html",
+                "archive": "blog.html",
+                "rss": "index.xml"
+            }
+        }
     }
   };
 };
