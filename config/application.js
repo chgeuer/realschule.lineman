@@ -18,6 +18,11 @@ module.exports = function(lineman) {
         "options": {
             "latedef": false
         }
+    },
+    "markdown": {
+    	"options": {
+    		"url": "http://localhost:8000"
+    	}
     }
   };
 };

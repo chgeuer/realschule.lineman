@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="de" data-ng-app="app">
   <head>
-    <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
-    <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="/index.xml" />
+    <link rel="stylesheet" type="text/css" href="<%= site.options.url %><%= css %>" media="all" />
+    <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="<%= site.options.url %>/index.xml" />
     <title><%= site.title %><%= post ? ' - '+post.title() : '' %></title>
   </head>
   <body class="full-page {{page.body_css}}" data-ng-controller="Navigation">
@@ -52,19 +52,19 @@
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="<%= markdown.options.url %>/">Realschule Düsseldorf Golzheim</a></li>
-                <li><a href="<%= markdown.options.url %>/impressum/">Impressum</a></li>
-                <li><a href="<%= markdown.options.url %>/haftungsausschluss/">Haftungsausschluss</a></li>
-                <li><a href="<%= markdown.options.url %>/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
-                <li><a href="<%= markdown.options.url %>/archiv/">Archiv</a></li>
+                <li><a href="/">Realschule Düsseldorf Golzheim</a></li>
+                <li><a href="/impressum/">Impressum</a></li>
+                <li><a href="/haftungsausschluss/">Haftungsausschluss</a></li>
+                <li><a href="/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
+                <li><a href="/archiv/">Archiv</a></li>
             </ul>
         </div>
     </footer>
 
     <script>
-      var golzheim_site_url = "<%= markdown.options.url %>"; 
+      var golzheim_site_url = "<%= site.options.url %>"; 
     </script>
-    <script type="text/javascript" src="<%= js %>"></script>
+    <script type="text/javascript" src="<%= site.options.url %><%= js %>"></script>
     <script>
     $('.dropdown-toggle').click(function() {
         var location = $(this).attr('href');

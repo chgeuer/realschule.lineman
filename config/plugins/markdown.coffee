@@ -8,12 +8,14 @@ module.exports = (lineman) ->
     markdown:
       dev:
         options:
-          url: "http://xxx"
+          url: "http://localhost:8000"
+      dist:
+        options:
+          url: "http://www.schulen.duesseldorf.de/rs-tersteegenstr"
       options:
         author: "Realschule Golzheim"
         title: "Homepage der Realschule Golzheim"
         description: ""
-        url: "http://localhost:8000"
         layouts: 
           wrapper: "app/templates/wrapper.us"
           archive: "app/templates/blog.us"
