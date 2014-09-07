@@ -1,5 +1,0 @@
----
-title:  "Organigramm"
-published: true
----
-
