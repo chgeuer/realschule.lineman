@@ -1,6 +1,8 @@
 ---
 title:  "Begrüßung"
 published: true
+author:
+	name: "Jürgen Maaßen (Konrektor)"
 ---
  
 ## Schule nach DIN? Ja bittre

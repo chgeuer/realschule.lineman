@@ -13,7 +13,7 @@ published: true
 - Telefon: [0211/89-94029](tel:+492118994029)
 - Fax: [0211/89-29228](tel:+492118929228)
 
-Sie erreichen uns außerhalb dieser Zeiten auch unter dieser [Email-Adresse rs.tersteegenstr@duesseldorf.de](mailto:rs.tersteegenstr@duesseldorf.de).
+Sie erreichen uns außerhalb dieser Zeiten auch unter dieser [Email-Adresse: rs.tersteegenstr@duesseldorf.de](mailto:rs.tersteegenstr@duesseldorf.de).
 
 Die Schülerinnen und Schüler können ihre Anliegen (wie z.B. Ausstellung/Verlängerung eines Schülerausweises) in der ersten und zweiten Pause im Sekretariat erledigen.
 
