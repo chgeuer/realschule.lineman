@@ -1,6 +1,5 @@
 ---
 title:  "Wichtige Links und Adressen!"
-published: true
 ---
 
 # Was fehlt...

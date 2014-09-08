@@ -10,7 +10,6 @@ In der Realschule können alle Abschlüsse der Sekundarstufe I erworben werden:
 
 (Quelle: Schulministerium NRW – Das Bildungsportal) 
 
-<img src="schullaufbahn-grafik.jpg"></img>
+<img src="img/abschluesse-der-realschule/schullaufbahn-grafik.jpg"></img>
 
 Ganz viele Hinweise und Links zu Berufskollegs und Ausbildungsplätzen, zu Bewerbungen und Hilfestellungen findet Ihr auf unserer Seite "Berufsorientierung".
- 

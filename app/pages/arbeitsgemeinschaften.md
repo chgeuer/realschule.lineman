@@ -1,8 +1,6 @@
 ---
 title:  "Arbeitsgemeinschaften"
-published: true
 ---
-
 
 ## Freiwillige Arbeitsgemeinschaften
 
@@ -63,8 +61,6 @@ Die Ausbildung der Schüler in Erster Hilfe findet an der Realschule Golzheim au
 - Herr Marius Michels vom DRK Neuss steuerte dann einen Krankentransportwagen (KTW) des DRK in die Anfahrtshalle der Zentral-Ambulanz und erläuterte den Jugendlichen die Ausrüstung und Einsatzmöglichkeiten dieses Fahrzeugs.
 - Nach kurzweiligen 2 ½ Stunden verabschiedete Dr. Sarwas die mit vielen neuen Informationen versehenen Schüler und entließ sie mit den Worten: „Ihr macht als Schulsanitätsdienst einen tollen und verantwortungsvollen Job! Bildet Euch weiter, auf dass Ihr immer auf der Höhe des Wissens und der praktischen Fähigkeiten bleibt; denn anderen Menschen zu helfen macht Freude, glücklich und zufrieden! Alles Gute für Euren weiteren Dienst!“
 - Falls der Wunsch von anderen Schulsanitätsdiensten zur Führung durch die Zentralambulanz des Lukaskrankenhauses besteht, wende man sich bitte zur Terminvereinbarung an Dr. Thomas Sarwas (Tel: 02131/888-0).
-
-
 
 #### Theater-AG
 

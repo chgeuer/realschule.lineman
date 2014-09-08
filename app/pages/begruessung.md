@@ -5,7 +5,7 @@ author:
 	name: "Jürgen Maaßen (Konrektor)"
 ---
  
-## Schule nach DIN? Ja bittre
+## Schule nach DIN? Ja bitte
 
 > Qualitätsstandard zu unterwerfen, in dem standardisiert gearbeitet wird? Steigern zentrale Lernstandserhebungen, standardisierte Lern- und Lehrmethoden, programmierte Vorgehensweisen und Evaluationen den dauerhaften Lernerfolg unserer Schülerinnen und Schüler? Erreichen wir so eine überall gleich guteUnterrichtsqualität?
 > 

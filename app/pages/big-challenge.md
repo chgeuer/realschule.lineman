@@ -15,6 +15,6 @@ Jeder teilnehmende Schüler erhält vor dem Wettbewerb einen Fragebogen und eine
 
 THE BIG CHALLENGE verleiht Preise an alle angemeldeten Schüler. Jeder Schüler bekommt unabhängig von seinem Platz in der Rangliste ein BIG CHALLENGE Ehrendiplom und ein Geschenk im Zusammenhang mit der englischen Sprache.
 
-Mehr kann man auf http://www.thebigchallenge.com/de erfahren. Dort findet man auch einen Übungstest.
+Mehr kann man auf [THE BIG CHALLENGE](http://www.thebigchallenge.com/de) erfahren. Dort findet man auch einen Übungstest.
 
 Organisiert wird der Wettbewerb von der Englisch-Fachschaft.

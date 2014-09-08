@@ -1,8 +1,9 @@
 ---
 title:  "Bunter Alltag"
 published: true
+author:
+  name: "U. Jahn"
 ---
-
 
 # Zum Advent: "Lesung unterm Baum"
 
@@ -23,6 +24,3 @@ Am Abend saß man dann nach einer heißen Dusche und einem schmackhaften, selbst
 # Ausflug in die Buchhandlung
 
 Am 28. April 2010 besuchte unsere Klasse 5a die Goethe-Buchhandlung auf der Nordstraße. Dort wurden die Schüler und Schülerinnen zunächst durch die verschiedenen Abteilungen geführt. Anschließend kämpften sie um den ersten Platz bei einer kniffeligen Buchhandlungsrallye. Im Rahmen des „Welttages des Buches“ bekam jeder das Buch „Ich schenk‘ dir eine Geschichte“. Die 5a hatte an diesem Ausflug viel Freude!
-
-Text und Bilder: U. Jahn 
-

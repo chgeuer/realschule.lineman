@@ -1,6 +1,10 @@
 /// <reference path="jquery/jquery.d.ts" />
 /// <reference path="angular/angular.d.ts" />
 
+'use strict';
+
+// #TODO Don't know how to get this set up properly, so my wrapper.us uses this
+// <script>var golzheim_site_url = "<%= site.options.url %>";</script>
 declare var golzheim_site_url: string;
 
 class Page {
@@ -14,159 +18,143 @@ class Page {
     }
 }
 
-(function () {
-    'use strict';
+angular
+    .module('app', []);
 
-    angular
-        .module('app', []);
+angular
+    .module('app')
+    .config(['$interpolateProvider', function ($interpolateProvider) {
+        $interpolateProvider.startSymbol('[[');
+        $interpolateProvider.endSymbol(']]');
+    }]);
 
-    angular
-        .module('app')
-        .config(['$interpolateProvider', function ($interpolateProvider) {
-            $interpolateProvider.startSymbol('[[');
-            $interpolateProvider.endSymbol(']]');
-        }]);
+angular
+    .module('app')
+    .controller('Navigation', ['$scope', '$http', '$location', navigation]);
 
-    angular
-        .module('app')
-        .controller('Navigation', ['$scope', '$http', '$location', navigation]);
+function navigation($scope: any, $http: any, $location: any) {
+    $scope.locationpath = $location.path();
+    $scope.locationwindow = window.location.href;
+    $scope.data = getNavigationData(golzheim_site_url);
+    setActiveClassAttribute($scope.data, $scope.locationwindow, golzheim_site_url);
+}
 
-    function navigation($scope: any, $http: any, $location: any) {
-        $scope.locationpath = $location.path();
-        $scope.locationwindow = window.location.href;
-        $scope.data = getNavigationData(golzheim_site_url);
-        setActiveClassAttribute($scope.data, $scope.locationwindow, golzheim_site_url);
+function setActiveClassAttribute(data, currentLocation, siteUrl) {
+    var dataLength = data.length;
+    for (var i = 0; i < dataLength; i++) {
+        var item = data[i];
+
+        var itemUrl = item.url.replace(/\/$/, '');
+        item.active = ( (currentLocation.indexOf(itemUrl) > -1) && (itemUrl !== siteUrl) );
+        var children = item.children || [];
+        setActiveClassAttribute(children, currentLocation, siteUrl);
     }
+}
 
-    function setActiveClassAttribute(data, currentLocation, siteUrl) {
-        var dataLength = data.length;
-        for (var i = 0; i < dataLength; i++) {
-            var item = data[i];
+function getNavigationData(baseurl: string) {
+    var x = function(name: string, url: string, children?: Page[]): Page {
+        return new Page(name, url, children);
+    };
 
-            var itemUrl = item.url.replace(/\/$/, '');
-            item.active = ( (currentLocation.indexOf(itemUrl) > -1) && (itemUrl !== siteUrl) );
-            var children = item.children || [];
-            setActiveClassAttribute(children, currentLocation, siteUrl);
-        }
-    }
-
-
-
-    function getNavigationData(baseurl: string) {
-        var page = function(name: string, url: string, children?: Page[]): Page {
-            return new Page(name, url, children);
-        };
-
-        return [
-            page('Start', 'index'),
-            page('Aktuelles', 'blog'),
-            page('Wir stellen uns vor', 'vorstellung', [
-                    page('Begrüßung', 'begruessung'),
-                    page('Sprech- und -Bürozeiten', 'sprech-und-buerozeiten'),
-                    page('Schulische Gremien', 'schulische-gremien'),
-                    page('Pressespiegel', 'pressespiegel')
-                ]
-            ),
-            page('Anmeldung', 'anmeldung'),
-            page('Berufsorientierung', 'berufsorientierung'),
-            page('Pädagogik', 'unsere-paedagogik', [
-                    page('Schulhistorie', 'schulhistorie'),
-                    page('Das Schulprogramm', 'schulprogramm'),
-                    page('Das Lehrerraum-Prinzip', 'lehrerraum-prinzip'),
-                    page('Das 67.5 Minutenraster', 'das-67-5-minuten-raster'),
-                    page('Qualität - mehr als ein Modewort', 'qualitaet'),
-                    page('Partner und Patenschaften', 'partner-und-patenschaften'),
-                    page('Arbeitsgemeinschaften', 'arbeitsgemeinschaften'),
-                    page('Das Merkheft', 'merkheft') 
-                ]
-            ),
-            page('Rund ums Haus', 'rund-ums-haus', [
-                    page('Mittagessen und Hausaufgabenbetreuung', 'mittagessen-und-hausaufgabenbetreuung'),
-                    page('Lage und Anfahrt', 'lage-und-anfahrt'),
-                    page('Gebäude und Gelände', 'gebaeude-und-gelaende'),
-                    page('Spind-Angebot', 'spind-angebot')
-                ]
-            ),
-            page('Unterricht', 'unterricht', [
-                    page('Unsere Schule in Zahlen', 'aktuelle-statistik'),
-                    page('Unser Kollegium', 'kollegium'),
-                    page('Schulordnung', 'schulordnung'),
-                    page('Versetzungsordnung', 'versetzungsordnung'),
-                    page('Kopfnoten', 'kopfnoten'),
-                    page('Schulbücher und -material', 'schulmaterial'),
-                    page('Schulbücherei/Medien', 'schulbuecherei'),
-                    page('Schüleraustausch Frankreich', 'schueleraustausch-frankreich'),
-                    page('Fahrtenangebote', 'fahrtenangebote'),
-                    page('Galerie der Kunst-Klassen', 'galerie-der-kunst-klassen'),
-                    page('Stundentafel', 'stundentafel'),
-                    page('Lehrpläne', 'curriculum-und-lehrplaene'),
-                    page('Schüler helfen Schülern', 'schueler-helfen-schuelern'),
-                    page('Ergänzungs- und Förderunterricht', 'ergaenzungs-und-foerderunterricht'),
-                    page('Profil-Klassen', 'profilklassen'),
-                    page('Schulsozialarbeit', 'schulsozialarbeit'),
-                    page('Hilfe bei Lernstörungen', 'hilfe-bei-lernstoerungen'),
-                    page('Hochbegabung', 'hochbegabung'),
-                    page('Bunter Alltag', 'bunter-alltag')
-                ]
-            ),
-            page('Schul-Laufbahn', 'schullaufbahn', [
-                    page('Anmeldung', 'anmeldung2'),
-                    page('Sanfter Übergang - Lernen lernen!', 'sanfter-uebergang'),
-                    page('Startprojekt Ich/Wir/Eine Welt', 'startprojekt-ich-wir-eine-welt'),
-                    page('Erprobungsstufe Klasse 5 und 6', 'erprobungsstufe-klasse-5-und-6'),
-                    page('Differenzierung ab Klasse 7', 'differenzierung-ab-klasse-7'),
-                    page('Lernstandserhebungen in Klasse 8', 'lernstandserhebungen-in-klasse-8'),
-                    page('Praktika', 'praktika'),
-                    page('Berufsvorbereitung', 'berufsvorbereitung'),
-                    page('Zentrale Prüfungen in Klasse 10', 'zentrale-pruefungen-in-klasse-10'),
-                    page('Abschlüsse der Realschule', 'abschluesse-der-realschule')
-                ]
-            ),
-            page('Projekte', 'projekte', [
-                    page('Nachhaltigkeit im Schulalltag', 'nachhaltigkeit-im-schulalltag'),
-                    page('Schulprofil Gesund lernen', 'schulprofil-gesund-lernen'),
-                    page('Nachdenkraum-Projekt', 'nachdenkraum-projekt'),
-                    page('Streitschlichter-Projekt', 'streitschlichter-projekt'),
-                    page('Gewaltpräventionsprojekt', 'gewaltpraevention'),
-                    page('Vorlesewettbewerb', 'vorlesewettbewerb'),
-                    page('Big Challenge', 'big-challenge'),
-                    page('DELF Zertifikat', 'delf-zertifikat'),
-                    page('Känguruh der Mathematik', 'kaenguru-der-mathematik'),
-                    page('Sponsorenlauf', 'sponsorenlauf'),
-                    page('Togo-Projekt', 'togo-projekt'),
-                    page('Sportveranstaltungen', 'sportveranstaltungen')
-                ]
-            ),
-            page('Termine', 'termine'),
-            page('Schul-Check', 'schulcheck'),
-            page('Eltern', 'eltern', [
-                    page('Schulpflegschaft', 'schulpflegschaft'),
-                    page('Klassenpflegschaft', 'klassenpflegschaft'),
-                    page('Fachkonferenzen', 'fachkonferenzen'),
-                    page('Förderverein der Schule', 'foerderverein')
-                ]
-            ),
-            page('Schüler', 'schueler', [
-                  page('Wir nehmen Einfluss!', 'wir-nehmen-einfluss'),
-                  page('Wir wollen\'s wissen!', 'wir-wollen-es-wissen'),
-                  page('Wir können was!', 'wir-koennen-was'),
-                  page('Wir sind gut drauf! Meistens...', 'wir-sind-gut-drauf')
-                ]
-            ),
-            page('Lehrer', 'lehrer'),
-            page('Wichtige Links und Adressen!', 'adressen', [
-                    page('Üben & Lernen', 'ueben-und-lernen'),
-                    page('Downloads', 'arbeitsmaterialien-zum-download'),
-                    page('Institutionen', 'institutionen'),
-                    page('Schulbücher', 'schulbuecher-kaufen'),
-                    page('Links zur Ausbildungsplatzsuche', 'links-zur-ausbildungsplatzsuche'),
-                    page('Links zur Schule', 'links-rund-um-schule-und-familie')
-                ]
-            ),
-            page('Impressum', 'impressum'),
-            page('Haftungsausschluss', 'haftungsausschluss'),
-            page('Häufig gestellte Fragen', 'haeufig-gestellte-fragen'),
-            page('Archiv', 'archiv') 
-        ];
-    }
-})();
+    return [
+        x('Start', 'index'),
+        x('Aktuelles', 'blog'),
+        x('Wir stellen uns vor', 'vorstellung', [
+            x('Begrüßung', 'begruessung'),
+            x('Sprech- und -Bürozeiten', 'sprech-und-buerozeiten'),
+            x('Schulische Gremien', 'schulische-gremien'),
+            x('Pressespiegel', 'pressespiegel')
+        ]),
+        x('Anmeldung', 'anmeldung'),
+        x('Berufsorientierung', 'berufsorientierung'),
+        x('Pädagogik', 'unsere-paedagogik', [
+            x('Schulhistorie', 'schulhistorie'),
+            x('Das Schulprogramm', 'schulprogramm'),
+            x('Das Lehrerraum-Prinzip', 'lehrerraum-prinzip'),
+            x('Das 67.5 Minutenraster', 'das-67-5-minuten-raster'),
+            x('Qualität - mehr als ein Modewort', 'qualitaet'),
+            x('Partner und Patenschaften', 'partner-und-patenschaften'),
+            x('Arbeitsgemeinschaften', 'arbeitsgemeinschaften'),
+            x('Das Merkheft', 'merkheft') 
+        ]),
+        x('Rund ums Haus', 'rund-ums-haus', [
+            x('Mittagessen und Hausaufgabenbetreuung', 'mittagessen-und-hausaufgabenbetreuung'),
+            x('Lage und Anfahrt', 'lage-und-anfahrt'),
+            x('Gebäude und Gelände', 'gebaeude-und-gelaende'),
+            x('Spind-Angebot', 'spind-angebot')
+        ]),
+        x('Unterricht', 'unterricht', [
+            x('Unsere Schule in Zahlen', 'aktuelle-statistik'),
+            x('Unser Kollegium', 'kollegium'),
+            x('Schulordnung', 'schulordnung'),
+            x('Versetzungsordnung', 'versetzungsordnung'),
+            x('Kopfnoten', 'kopfnoten'),
+            x('Schulbücher und -material', 'schulmaterial'),
+            x('Schulbücherei/Medien', 'schulbuecherei'),
+            x('Schüleraustausch Frankreich', 'schueleraustausch-frankreich'),
+            x('Fahrtenangebote', 'fahrtenangebote'),
+            x('Galerie der Kunst-Klassen', 'galerie-der-kunst-klassen'),
+            x('Stundentafel', 'stundentafel'),
+            x('Lehrpläne', 'curriculum-und-lehrplaene'),
+            x('Schüler helfen Schülern', 'schueler-helfen-schuelern'),
+            x('Ergänzungs- und Förderunterricht', 'ergaenzungs-und-foerderunterricht'),
+            x('Profil-Klassen', 'profilklassen'),
+            x('Schulsozialarbeit', 'schulsozialarbeit'),
+            x('Hilfe bei Lernstörungen', 'hilfe-bei-lernstoerungen'),
+            x('Hochbegabung', 'hochbegabung'),
+            x('Bunter Alltag', 'bunter-alltag')
+        ]),
+        x('Schul-Laufbahn', 'schullaufbahn', [
+            x('Anmeldung', 'anmeldung2'),
+            x('Sanfter Übergang - Lernen lernen!', 'sanfter-uebergang'),
+            x('Startprojekt Ich/Wir/Eine Welt', 'startprojekt-ich-wir-eine-welt'),
+            x('Erprobungsstufe Klasse 5 und 6', 'erprobungsstufe-klasse-5-und-6'),
+            x('Differenzierung ab Klasse 7', 'differenzierung-ab-klasse-7'),
+            x('Lernstandserhebungen in Klasse 8', 'lernstandserhebungen-in-klasse-8'),
+            x('Praktika', 'praktika'),
+            x('Berufsvorbereitung', 'berufsvorbereitung'),
+            x('Zentrale Prüfungen in Klasse 10', 'zentrale-pruefungen-in-klasse-10'),
+            x('Abschlüsse der Realschule', 'abschluesse-der-realschule')
+        ]),
+        x('Projekte', 'projekte', [
+            x('Nachhaltigkeit im Schulalltag', 'nachhaltigkeit-im-schulalltag'),
+            x('Schulprofil Gesund lernen', 'schulprofil-gesund-lernen'),
+            x('Nachdenkraum-Projekt', 'nachdenkraum-projekt'),
+            x('Streitschlichter-Projekt', 'streitschlichter-projekt'),
+            x('Gewaltpräventionsprojekt', 'gewaltpraevention'),
+            x('Vorlesewettbewerb', 'vorlesewettbewerb'),
+            x('Big Challenge', 'big-challenge'),
+            x('DELF Zertifikat', 'delf-zertifikat'),
+            x('Känguruh der Mathematik', 'kaenguru-der-mathematik'),
+            x('Sponsorenlauf', 'sponsorenlauf'),
+            x('Togo-Projekt', 'togo-projekt'),
+            x('Sportveranstaltungen', 'sportveranstaltungen')
+        ]),
+        x('Termine', 'termine'),
+        x('Schul-Check', 'schulcheck'),
+        x('Eltern', 'eltern', [
+            x('Schulpflegschaft', 'schulpflegschaft'),
+            x('Klassenpflegschaft', 'klassenpflegschaft'),
+            x('Fachkonferenzen', 'fachkonferenzen'),
+            x('Förderverein der Schule', 'foerderverein')
+        ]),
+        x('Schüler', 'schueler', [
+          x('Wir nehmen Einfluss!', 'wir-nehmen-einfluss'),
+          x('Wir wollen\'s wissen!', 'wir-wollen-es-wissen'),
+          x('Wir können was!', 'wir-koennen-was'),
+          x('Wir sind gut drauf! Meistens...', 'wir-sind-gut-drauf')
+        ]),
+        x('Lehrer', 'lehrer'),
+        x('Wichtige Links und Adressen!', 'adressen', [
+            x('Üben & Lernen', 'ueben-und-lernen'),
+            x('Downloads', 'arbeitsmaterialien-zum-download'),
+            x('Institutionen', 'institutionen'),
+            x('Schulbücher', 'schulbuecher-kaufen'),
+            x('Links zur Ausbildungsplatzsuche', 'links-zur-ausbildungsplatzsuche'),
+            x('Links zur Schule', 'links-rund-um-schule-und-familie')
+        ]),
+        x('Impressum', 'impressum'),
+        x('Haftungsausschluss', 'haftungsausschluss'),
+        x('Häufig gestellte Fragen', 'haeufig-gestellte-fragen')
+    ];
+}

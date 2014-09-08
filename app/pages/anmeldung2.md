@@ -1,5 +1,0 @@
----
-title:  "Anmeldung"
-published: true
----
-
