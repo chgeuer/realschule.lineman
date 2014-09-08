@@ -3,7 +3,6 @@ title:  "Berufsvorbereitung"
 published: true
 ---
 
-
 # Beruf in Sicht!
 
 In der entscheidenden Phase findet die Schullaufbahnberatung individuell statt. Folgende Maßnahmen sollen unsere Schüler bei der Berufswahl und Berufsvorbereitung unterstützen: 
