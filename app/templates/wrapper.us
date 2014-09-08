@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-9 main-content">
-                <h1><%= page %></h1>
+                <h1><%= "put pagetitle here" %></h1>
                 <div><%= yield %></div>
             </div>
         </div>
@@ -52,11 +52,11 @@
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="/">Realschule Düsseldorf Golzheim</a></li>
-                <li><a href="/impressum.html">Impressum</a></li>
-                <li><a href="/haftungsausschluss/">Haftungsausschluss</a></li>
-                <li><a href="/haeufig-gestellte-fragen/">H&auml;ufig gestellte Fragen</a></li>
-                <li><a href="/archiv/">Archiv</a></li>
+                <li><a href="<%= site.options.url %>/">Realschule Düsseldorf Golzheim</a></li>
+                <li><a href="<%= site.options.url %>/impressum.html">Impressum</a></li>
+                <li><a href="<%= site.options.url %>/haftungsausschluss.html">Haftungsausschluss</a></li>
+                <li><a href="<%= site.options.url %>/haeufig-gestellte-fragen.html">H&auml;ufig gestellte Fragen</a></li>
+                <li><a href="<%= site.options.url %>/archiv.html">Archiv</a></li>
             </ul>
         </div>
     </footer>
