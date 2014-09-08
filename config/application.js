@@ -12,17 +12,11 @@
  *   $ lineman config concat.js #=> to see the JS config for the concat task.
  */
 module.exports = function(lineman) {
-  //Override application configuration here. Common examples follow in the comments.
   return {
     "jshint": {
         "options": {
             "latedef": false
         }
-    },
-    "markdown": {
-    	"options": {
-    		"url": "http://localhost:8000"
-    	}
     }
   };
 };

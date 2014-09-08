@@ -1,1 +1,6 @@
+<h1>Willkommen</h1>
+
+
+<p>Wir begr&uuml;&szlig;en Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie alle Informationen finden. Unsere Internetseite richtet sich an Besucher, an die Eltern, die Sch&uuml;ler und an die Lehrer. Sie dient auch dem Informationsaustausch innerhalb der Schule! </p>
+
 <%= site.htmlFor(_(site.posts).last()) %>

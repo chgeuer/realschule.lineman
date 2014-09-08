@@ -19,8 +19,9 @@ module.exports = (lineman) ->
         layouts: 
           wrapper: "app/templates/wrapper.us"
           archive: "app/templates/blog.us"
+          lastpost: "app/templates/index.us"
         paths: 
-          index: "index.html",
+          lastpost: "lastpost.html",
           archive: "blog.html",
           rss: "index.xml"
         rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation

@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" type="text/css" href="<%= site.options.url %><%= css %>" media="all" />
     <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="<%= site.options.url %>/index.xml" />
-    <title><%= site.title %><%= post ? ' - '+post.title() : '' %></title>
+    <title><%= site.title %><%= post ? ' - ' + post.title() : '' %></title>
   </head>
   <body class="full-page {{page.body_css}}" data-ng-controller="Navigation">
     <div class="container-fluid content-container">
@@ -39,7 +39,6 @@
                 </div>
             </div>
             <div class="col-sm-8 col-md-9 main-content">
-                <h1><%= "put pagetitle here" %></h1>
                 <div><%= yield %></div>
             </div>
         </div>
@@ -49,30 +48,30 @@
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="<%= site.options.url %>/">Copyright <%= site.author %>, <%= new Date().getFullYear() %>.</a></li>
+                <li><a href="<%= site.options.url %>/<%= site.paths.index %>    ">Copyright <%= site.author %>, <%= new Date().getFullYear() %>.</a></li>
                 <li><a href="<%= site.options.url %>/impressum.html">Impressum</a></li>
                 <li><a href="<%= site.options.url %>/haftungsausschluss.html">Haftungsausschluss</a></li>
-                <li><a href="<%= site.options.url %>/haeufig-gestellte-fragen.html">H&auml;ufig gestellte Fragen</a></li>
-                <li><a href="<%= site.options.url %>/archiv.html">Archiv</a></li>
+                <li><a href="<%= site.options.url %>/<%= site.paths.archive %>">blog</a></li>
             </ul>
         </div>
     </footer>
 
     <script>
+      <!-- Inject navigation root into site navigation -->
       var golzheim_site_url = "<%= site.options.url %>"; 
     </script>
     <script type="text/javascript" src="<%= site.options.url %><%= js %>"></script>
     <script>
-    $('.dropdown-toggle').click(function() {
-        var location = $(this).attr('href');
-        window.location.href = location;
-        return false;
-    });
-    $(function() {
-      $('.collapse.show-footer').on('show', function () {
-        $("html, body").animate({ scrollTop: $(document).height() }, "slow");
-      });
-    });
+        $('.dropdown-toggle').click(function() {
+            var location = $(this).attr('href');
+            window.location.href = location;
+            return false;
+        });
+        $(function() {
+          $('.collapse.show-footer').on('show', function () {
+            $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+          });
+        });
     </script>
   </body>
 </html>
