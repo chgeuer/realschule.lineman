@@ -13,11 +13,13 @@
   },
   "dependencies": {
     "lineman": ">= 0.21.3",
-    "lineman-blog": ">= 0.0.1"
+    "lineman-blog": ">= 0.0.1",
+    "lineman-typescript": "0.0.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-markdown-blog": "^0.3.5",
-    "lineman-less": "^0.1.0"
+    "lineman-less": "^0.1.0",
+    "grunt-typescript": "^0.3.8"
   }
 }

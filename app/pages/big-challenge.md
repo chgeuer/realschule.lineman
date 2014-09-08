@@ -3,7 +3,6 @@ title:  "Big Challenge"
 published: true
 ---
 
-
 ## Big Challenge - The First European English Contest for Schools
 
 Der Wettbewerb fand in diesem Jahr am Montag, den 7. Mai 2012 statt. Die Dauer des Tests war auf 45 Minuten festgelegt. 

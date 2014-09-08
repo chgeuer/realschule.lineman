@@ -1,4 +1,20 @@
-﻿(function () {
+/// <reference path="jquery/jquery.d.ts" />
+/// <reference path="angular/angular.d.ts" />
+
+declare var golzheim_site_url: string;
+
+class Page {
+    static baseurl : string = golzheim_site_url;
+    constructor(public name: string, public url: string, public children?: Page[]) { 
+        this.name = name;
+        this.url = Page.baseurl + "/" + url + ".html";
+        if (children) {
+            this.children = children;
+        }  
+    }
+}
+
+(function () {
     'use strict';
 
     angular
@@ -15,7 +31,7 @@
         .module('app')
         .controller('Navigation', ['$scope', '$http', '$location', navigation]);
 
-    function navigation($scope, $http, $location) {
+    function navigation($scope: any, $http: any, $location: any) {
         $scope.locationpath = $location.path();
         $scope.locationwindow = window.location.href;
         $scope.data = getNavigationData(golzheim_site_url);
@@ -34,18 +50,11 @@
         }
     }
 
-    function getNavigationData(baseurl) {
-        var page = function(text, resource, children) {
-            var result = { 
-                'name': text, 
-                'url': baseurl + "/" + resource + ".html" 
-            };
 
-            if (children != null) {
-                result.children = children;
-            }
 
-            return result;
+    function getNavigationData(baseurl: string) {
+        var page = function(name: string, url: string, children?: Page[]): Page {
+            return new Page(name, url, children);
         };
 
         return [
