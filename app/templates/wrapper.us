@@ -45,14 +45,11 @@
         </div>
     </div>
 
-   <footer>
-      Copyright <%= site.author %>, <%= new Date().getFullYear() %>.
-    </footer>
     <footer class="footer"
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="<%= site.options.url %>/">Realschule Düsseldorf Golzheim</a></li>
+                <li><a href="<%= site.options.url %>/">Copyright <%= site.author %>, <%= new Date().getFullYear() %>.</a></li>
                 <li><a href="<%= site.options.url %>/impressum.html">Impressum</a></li>
                 <li><a href="<%= site.options.url %>/haftungsausschluss.html">Haftungsausschluss</a></li>
                 <li><a href="<%= site.options.url %>/haeufig-gestellte-fragen.html">H&auml;ufig gestellte Fragen</a></li>

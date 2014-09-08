@@ -1,4 +1,3 @@
-<h1>blog</h1>
 <ul>
 <% _(site.posts).chain().reverse().each(function(post){ %>
   <li>
