@@ -9,7 +9,7 @@ declare function unescape (any):any;
 class Page {
     constructor(public name: string, public url: string, public children?: Page[]) { 
         this.name = Page.escapeumlaut(name);
-        this.url = url + ".html";
+        this.url = "./" + url + ".html";
         if (children) {
             this.children = children;
         }  
@@ -61,8 +61,8 @@ angular
 function navigation($scope: any, $http: any, $location: any) {
     $scope.locationpath = $location.path();
     $scope.locationwindow = window.location.href;
-    $scope.data = getNavigationData("");
-    setActiveClassAttribute($scope.data, $scope.locationwindow, "");
+    $scope.data = getNavigationData(".");
+    setActiveClassAttribute($scope.data, $scope.locationwindow, ".");
 }
 
 function setActiveClassAttribute(data, currentLocation, siteUrl) {

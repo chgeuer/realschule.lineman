@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de" data-ng-app="app">
   <head>
-    <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
+    <link rel="stylesheet" type="text/css" href=".<%= css %>" media="all" />
     <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="index.xml" />
     <title><%= site.title %><%= post ? ' - ' + post.title() : '' %></title>
   </head>
@@ -56,7 +56,7 @@
         </div>
     </footer>
 
-    <script type="text/javascript" src="<%= js %>"></script>
+    <script type="text/javascript" src=".<%= js %>"></script>
     <script>
         $('.dropdown-toggle').click(function() {
             var location = $(this).attr('href');
