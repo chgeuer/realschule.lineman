@@ -1,11 +1,11 @@
 ---
-title:  "Schulbücher kaufen"
+title:  "Schulb&uuml;cher kaufen"
 published: true
 ---
 
-Grundsätzlich werden jeder Schülerin und jedem Schüler vom Schulträger entsprechend eines festgelegten Durchschnittsbetrages - abzüglich eines Eigenanteils - Lernmittel zu befristetem Gebrauch unentgeltlich überlassen (Prinzip der Ausleihe). Die Höhe des von den Eltern zu tragenden Eigenanteils wird von der Schulleitung zu Beginn jedes Schuljahres schriftlich mitgeteilt, zusammen mit einer Empfehlung, welches Material davon angeschafft werden sollte.
+Grunds&auml;tzlich werden jeder Sch&uuml;lerin und jedem Sch&uuml;ler vom Schultr&auml;ger entsprechend eines festgelegten Durchschnittsbetrages - abz&uuml;glich eines Eigenanteils - Lernmittel zu befristetem Gebrauch unentgeltlich &uuml;berlassen (Prinzip der Ausleihe). Die H&ouml;he des von den Eltern zu tragenden Eigenanteils wird von der Schulleitung zu Beginn jedes Schuljahres schriftlich mitgeteilt, zusammen mit einer Empfehlung, welches Material davon angeschafft werden sollte.
 
-Nicht unter den Lernmittelbegriff fallen die Gegenstände, die im Unterricht als Gebrauchs- oder Übungsmaterial verwendet werden. Sie müssen gegebenenfalls als Teil der allgemeinen persönlichen Ausstattung von den Eltern bereitgestellt werden. Hierzu zählen Schreib- und Zeichenpapier, Stifte und Rechengeräte aller Art, einschließlich technische Hilfsmittel und sonstige Arbeitsmittel.
+Nicht unter den Lernmittelbegriff fallen die Gegenst&auml;nde, die im Unterricht als Gebrauchs- oder &uuml;bungsmaterial verwendet werden. Sie m&uuml;ssen gegebenenfalls als Teil der allgemeinen pers&ouml;nlichen Ausstattung von den Eltern bereitgestellt werden. Hierzu z&auml;hlen Schreib- und Zeichenpapier, Stifte und Rechenger&auml;te aller Art, einschlie&szlig;lich technische Hilfsmittel und sonstige Arbeitsmittel.
 
 ### Schulbuchverlage
 

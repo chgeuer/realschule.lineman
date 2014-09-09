@@ -1,1 +1,1 @@
-call grunt --gruntfile gruntfile-ftp.js ftp
+call grunt --gruntfile gruntfile-ftp.js ftp --force

@@ -11,7 +11,7 @@ module.exports = (lineman) ->
           url: "http://localhost:8000"
       dist:
         options:
-          url: "http://www.schulen.duesseldorf.de/rs-tersteegenstr/v4"
+          url: "http://www.schulen.duesseldorf.de/rs-tersteegenstr/v5"
       options:
         author: "Realschule Golzheim"
         title: "Homepage der Realschule Golzheim"

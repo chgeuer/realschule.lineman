@@ -11,7 +11,7 @@ module.exports = function (grunt) {
 					'authKey' : 'schulenduesseldorfde'
 				},
 				'src' : 'dist',
-				'dest' : '/httpdocs/v4',
+				'dest' : '/httpdocs/v5',
 				'exclusions' : [
 					'path/to/source/folder/**/.DS_Store', 
 					'path/to/source/folder/**/Thumbs.db', 

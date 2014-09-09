@@ -1,42 +1,42 @@
 ---
-title:  "Qualität - mehr als ein Modewort"
+title:  "Qualit&auml;t - mehr als ein Modewort"
 published: true
 ---
 
 <!-- 04-schule\preise-und-zertifikate -->
 
-# ...Füreinander da sein. Miteinander lernen.
+# ...F&uuml;reinander da sein. Miteinander lernen.
 
-Im Rahmen eines sechstägigen Grundlagen-Trainings wurden Herr Meßink und Frau Brandl zu buddY-Coaches ausgebildet. Diese Ausbildung diente der weiteren Verankerung des buddY Programms und der Entwicklung von Praxisprojekten an der Realschule Golzheim. 
+Im Rahmen eines sechst&auml;gigen Grundlagen-Trainings wurden Herr Me&szlig;ink und Frau Brandl zu buddY-Coaches ausgebildet. Diese Ausbildung diente der weiteren Verankerung des buddY Programms und der Entwicklung von Praxisprojekten an der Realschule Golzheim. 
 Weitere Infos gibt es hier. 
 
-Anlässlich des Tages der offenen Tür im Dezember 2012 soll das buddY-Projekt näher vorgestellt werden.
+Anl&auml;sslich des Tages der offenen T&uuml;r im Dezember 2012 soll das buddY-Projekt n&auml;her vorgestellt werden.
 
-In [dieser Präsentation](res/rsgolzheimbuddy.pdf) sind die Ergebnisse eines Projektes in der Klasse 7b zu sehen, unten ein paar Momentaufnahmen im Prozess. 
+In [dieser Pr&auml;sentation](res/rsgolzheimbuddy.pdf) sind die Ergebnisse eines Projektes in der Klasse 7b zu sehen, unten ein paar Momentaufnahmen im Prozess. 
 
 
 ## Fortbildungen
 
-Seit Beginn des Schuljahres 2012/2013 nehmen zwei Mitglieder des Kollegiums an einer Fortbildungsreihe zum Thema "Inklusion" teil, die von der Bezirksregierung Düsseldorf angeboten wird. 
+Seit Beginn des Schuljahres 2012/2013 nehmen zwei Mitglieder des Kollegiums an einer Fortbildungsreihe zum Thema "Inklusion" teil, die von der Bezirksregierung D&uuml;sseldorf angeboten wird. 
 
-Am 15. und 16.1.2012 wird in der Schule eine Fortbildung für das gesamte Kollegium abgehalten, die die Verbesserung der allgemeinen Lernsituation zum Inhalt haben wird. Dabei wirken auch zwei Elternvertreter mit.
+Am 15. und 16.1.2012 wird in der Schule eine Fortbildung f&uuml;r das gesamte Kollegium abgehalten, die die Verbesserung der allgemeinen Lernsituation zum Inhalt haben wird. Dabei wirken auch zwei Elternvertreter mit.
 
-Darüber hinaus finden an verschiedenen Terminen im Schuljahr Einzel- und Fachfortbildungen statt. 
+Dar&uuml;ber hinaus finden an verschiedenen Terminen im Schuljahr Einzel- und Fachfortbildungen statt. 
 
 
-## Auszeichnungen für sportliche Erfolge
+## Auszeichnungen f&uuml;r sportliche Erfolge
 
-Diese Pokale und Auszeichnungen zeigen die vielfachen sportlichen Erfolge der Klassen und Mannschaften u.a. in den Bereichen Fußball und Handball sowie Flagfootball (die Agnes-Miegel-Hawks wurden im Jahr 2002 Vize-Europameister mit Teilnahme an der Weltmeisterschaft in Mexico!). Näheres über Flagfootball finden Sie [hier](http://www.fslg.de/). 
+Diese Pokale und Auszeichnungen zeigen die vielfachen sportlichen Erfolge der Klassen und Mannschaften u.a. in den Bereichen Fu&szlig;ball und Handball sowie Flagfootball (die Agnes-Miegel-Hawks wurden im Jahr 2002 Vize-Europameister mit Teilnahme an der Weltmeisterschaft in Mexico!). N&auml;heres &uuml;ber Flagfootball finden Sie [hier](http://www.fslg.de/). 
 
-Es zeichnen sich Bemühungen ab, im Zuge einer Wiederbelebung der deutschen Football-Liga auch eine neue Schulmannschaft der Realschule Golzheim auf die Beine zu stellen.
+Es zeichnen sich Bem&uuml;hungen ab, im Zuge einer Wiederbelebung der deutschen Football-Liga auch eine neue Schulmannschaft der Realschule Golzheim auf die Beine zu stellen.
 
-Außerdem hat die Schule aber auch Preise in Talent- und Fotowettbewerben gewonnen. 
+Au&szlig;erdem hat die Schule aber auch Preise in Talent- und Fotowettbewerben gewonnen. 
 
-## UN-Auszeichnung für Düsseldorfer Agendaprojekt
+## UN-Auszeichnung f&uuml;r D&uuml;sseldorfer Agendaprojekt
 
-Das Düsseldorfer Projekt "Nachhaltigkeits-Audit für Schulen" wurde vom Unesco-Nationalkomitee als Projekt der Vereinten-Nationen-(UN)-Dekade "Bildung für nachhaltige Entwicklung" ausgezeichnet. (...) Die Auszeichnung gilt für zwei Jahre, das Düsseldorfer Projekt darf sich also "Offizielles Projekt der Weltdekade 2008/2009, Bildung für nachhaltige Entwicklung" nennen und dessen Logo verwenden.
+Das D&uuml;sseldorfer Projekt "Nachhaltigkeits-Audit f&uuml;r Schulen" wurde vom Unesco-Nationalkomitee als Projekt der Vereinten-Nationen-(UN)-Dekade "Bildung f&uuml;r nachhaltige Entwicklung" ausgezeichnet. (...) Die Auszeichnung gilt f&uuml;r zwei Jahre, das D&uuml;sseldorfer Projekt darf sich also "Offizielles Projekt der Weltdekade 2008/2009, Bildung f&uuml;r nachhaltige Entwicklung" nennen und dessen Logo verwenden.
 
-Die am Düsseldorfer Agenda-Netzwerk beteiligten Schulen sind die Katholische Grundschule Essener Straße, Fritz-Henkel-Schule, Gemeinschaftshauptschule Melanchthonstraße, Theodor-Litt-Realschule, Agnes-Miegel-Realschule, Hulda-Pankok-Gesamtschule, Dieter-Forte-Gesamtschule, International School Düsseldorf, Comenius-Gymnasium, Geschwister-Scholl-Gymnasium, Marie-Curie-Gymnasium, Theodor-Fliedner-Gymnasium, Lessing Gymnasium/Berufskolleg, Max-Weber-Berufskolleg, Walter-Eucken-Berufskolleg, Leo-Statz-Berufskolleg, Lore-Lorenz-Schule und das Berufskolleg Neuss, Weingartstraße.
+Die am D&uuml;sseldorfer Agenda-Netzwerk beteiligten Schulen sind die Katholische Grundschule Essener Stra&szlig;e, Fritz-Henkel-Schule, Gemeinschaftshauptschule Melanchthonstra&szlig;e, Theodor-Litt-Realschule, Agnes-Miegel-Realschule, Hulda-Pankok-Gesamtschule, Dieter-Forte-Gesamtschule, International School D&uuml;sseldorf, Comenius-Gymnasium, Geschwister-Scholl-Gymnasium, Marie-Curie-Gymnasium, Theodor-Fliedner-Gymnasium, Lessing Gymnasium/Berufskolleg, Max-Weber-Berufskolleg, Walter-Eucken-Berufskolleg, Leo-Statz-Berufskolleg, Lore-Lorenz-Schule und das Berufskolleg Neuss, Weingartstra&szlig;e.
 
-Weitere Informationen zum Öko-/Nachhaltigkeits-Audit an Schulen gibt es auf den [Internetseiten](http://www.duesseldorf.de/agenda21/projekte/projekt_16.shtml) der Landeshauptstadt Düsseldorf. 
+Weitere Informationen zum &ouml;ko-/Nachhaltigkeits-Audit an Schulen gibt es auf den [Internetseiten](http://www.duesseldorf.de/agenda21/projekte/projekt_16.shtml) der Landeshauptstadt D&uuml;sseldorf. 
 

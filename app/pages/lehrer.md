@@ -4,7 +4,7 @@ published: true
 ---
 
 - Frau Steudel (Schulleiterin)
-- Herr Maaßen (Konrektor)
+- Herr Maa&szlig;en (Konrektor)
 - Frau Brosch (Konrektorin)
 - Herr Bathge
 - Frau Brandl
@@ -13,24 +13,24 @@ published: true
 - Herr Hensges
 - Frau Holtorf
 - Frau Huber
-- Herr Hüserich
+- Herr H&uuml;serich
 - Frau Jansen
 - Frau Kamplade
 - Frau Klose
-- Herr Meßink
+- Herr Me&szlig;ink
 - Frau Miguel
 - Frau Morschel
 - Frau Musolff
-- Herr Müller
+- Herr M&uuml;ller
 - Frau Nikolaidou
 - Frau Oberschmidt
 - Frau Reinke-Ludwig
-- Frau Rödel
-- Frau Rösler
+- Frau R&ouml;del
+- Frau R&ouml;sler
 - Frau Sarwas
 - Frau Schirp
 - Frau Schmitten
-- Frau Schütz
+- Frau Sch&uuml;tz
 - Frau Schulte
 - Herr Strucken
 - Faru Ulmrich
@@ -38,6 +38,6 @@ published: true
 - Frau Walgenbach 
 - Frau West
 - Frau Woker
-- Frau Richter (Sekretärin)
+- Frau Richter (Sekret&auml;rin)
 - Frau Wagner (Schulsozialarbeiterin)
 

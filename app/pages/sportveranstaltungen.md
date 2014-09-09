@@ -7,18 +7,18 @@ published: true
 
 Hier sind sie, die weiteren Turniertermine!
 
-- 29.11.2012: Fußballturnier Mädchen, Klasse 8-10
-- 6.12.2012: Fußballturnier Jungen, Klasse 8-10
-- 20.3.2013: Völkerballturnier, Klasse 5-6
+- 29.11.2012: Fu&szlig;ballturnier M&auml;dchen, Klasse 8-10
+- 6.12.2012: Fu&szlig;ballturnier Jungen, Klasse 8-10
+- 20.3.2013: V&ouml;lkerballturnier, Klasse 5-6
 
 ## Sport-Projektwoche
 
-Vom 9.7. bis 12.7.2013 führt die Schule für alle 7. Klassen - wie jedes Jahr - eine Sport-Projektwoche durch. 
+Vom 9.7. bis 12.7.2013 f&uuml;hrt die Schule f&uuml;r alle 7. Klassen - wie jedes Jahr - eine Sport-Projektwoche durch. 
 
-Statt des normalen Unterrichts wird in der gewählten Sportart nach einem Sonderplan unterrichtet. 
-Dabei kann zwischen verschiedenen Sportarten gewählt werden. 
+Statt des normalen Unterrichts wird in der gew&auml;hlten Sportart nach einem Sonderplan unterrichtet. 
+Dabei kann zwischen verschiedenen Sportarten gew&auml;hlt werden. 
 
 ## Wir sind Tischtennismeister 2011!
 
-Die Realschule Golzheim belegte am 17. November 2011 bei der Stadtmeisterschaft der Düsseldorfer Schulen in der Wettkampfklasse II den 1. Platz!
+Die Realschule Golzheim belegte am 17. November 2011 bei der Stadtmeisterschaft der D&uuml;sseldorfer Schulen in der Wettkampfklasse II den 1. Platz!
 
