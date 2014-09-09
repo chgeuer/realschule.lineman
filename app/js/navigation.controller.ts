@@ -3,17 +3,13 @@
 
 'use strict';
 
-// #TODO Don't know how to get this set up properly, so my wrapper.us uses this
-// <script>var golzheim_site_url = "<%= site.options.url %>";</script>
-declare var golzheim_site_url: string;
 declare function escape (any):any;
 declare function unescape (any):any;
 
 class Page {
-    static baseurl : string = golzheim_site_url;
     constructor(public name: string, public url: string, public children?: Page[]) { 
         this.name = Page.escapeumlaut(name);
-        this.url = Page.baseurl + "/" + url + ".html";
+        this.url = url + ".html";
         if (children) {
             this.children = children;
         }  
@@ -65,8 +61,8 @@ angular
 function navigation($scope: any, $http: any, $location: any) {
     $scope.locationpath = $location.path();
     $scope.locationwindow = window.location.href;
-    $scope.data = getNavigationData(golzheim_site_url);
-    setActiveClassAttribute($scope.data, $scope.locationwindow, golzheim_site_url);
+    $scope.data = getNavigationData("");
+    setActiveClassAttribute($scope.data, $scope.locationwindow, "");
 }
 
 function setActiveClassAttribute(data, currentLocation, siteUrl) {

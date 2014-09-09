@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="de" data-ng-app="app">
   <head>
-    <link rel="stylesheet" type="text/css" href="<%= site.options.url %><%= css %>" media="all" />
-    <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="<%= site.options.url %>/index.xml" />
+    <link rel="stylesheet" type="text/css" href="<%= css %>" media="all" />
+    <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="index.xml" />
     <title><%= site.title %><%= post ? ' - ' + post.title() : '' %></title>
   </head>
   <body class="full-page {{page.body_css}}" data-ng-controller="Navigation">
@@ -48,19 +48,15 @@
           style="margin-bottom:0px;margin-left:0px;margin-right:0px;clear:both;">
         <div class="container">
             <ul class="nav navbar-nav">
-                <li><a href="<%= site.options.url %>/<%= site.paths.index %>    ">Copyright <%= site.author %>, <%= new Date().getFullYear() %>.</a></li>
-                <li><a href="<%= site.options.url %>/impressum.html">Impressum</a></li>
-                <li><a href="<%= site.options.url %>/haftungsausschluss.html">Haftungsausschluss</a></li>
-                <li><a href="<%= site.options.url %>/<%= site.paths.archive %>">blog</a></li>
+                <li><a href="<%= site.paths.index %>    ">Copyright <%= site.author %>, <%= new Date().getFullYear() %>.</a></li>
+                <li><a href="impressum.html">Impressum</a></li>
+                <li><a href="haftungsausschluss.html">Haftungsausschluss</a></li>
+                <li><a href="<%= site.paths.archive %>">blog</a></li>
             </ul>
         </div>
     </footer>
 
-    <script>
-      <!-- Inject navigation root into site navigation -->
-      var golzheim_site_url = "<%= site.options.url %>"; 
-    </script>
-    <script type="text/javascript" src="<%= site.options.url %><%= js %>"></script>
+    <script type="text/javascript" src="<%= js %>"></script>
     <script>
         $('.dropdown-toggle').click(function() {
             var location = $(this).attr('href');
