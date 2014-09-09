@@ -12,11 +12,30 @@
  *   $ lineman config concat.js #=> to see the JS config for the concat task.
  */
 module.exports = function(lineman) {
-  return {
-    "jshint": {
-        "options": {
-            "latedef": false
-        }
-    }
-  };
+	return {
+		'jshint': {
+			'options': {
+				'latedef': false
+			}
+		},
+		'ftpush' : {
+			'prod' : {
+				'auth' : {
+					'host' : 'schulen.duesseldorf.de',
+					'port' : 21,
+					'authKey' : 'schulenduesseldorfde'
+				},
+				'src' : 'dist',
+				'dest' : '/httpdocs/v4',
+				'exclusions' : [
+					'path/to/source/folder/**/.DS_Store', 
+					'path/to/source/folder/**/Thumbs.db', 
+					'path/to/dist/tmp'
+				]
+			}
+		},
+		'appTasks' : {
+			'deploy': ["ftpush:prod"]
+		}
+	};
 };
