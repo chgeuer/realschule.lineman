@@ -1,4 +1,4 @@
-/// <reference path="jquery/jquery.d.ts" />
+﻿/// <reference path="jquery/jquery.d.ts" />
 /// <reference path="angular/angular.d.ts" />
 
 'use strict';
@@ -6,15 +6,45 @@
 // #TODO Don't know how to get this set up properly, so my wrapper.us uses this
 // <script>var golzheim_site_url = "<%= site.options.url %>";</script>
 declare var golzheim_site_url: string;
+declare function escape (any):any;
+declare function unescape (any):any;
 
 class Page {
     static baseurl : string = golzheim_site_url;
     constructor(public name: string, public url: string, public children?: Page[]) { 
-        this.name = name;
+        this.name = Page.escapeumlaut(name);
         this.url = Page.baseurl + "/" + url + ".html";
         if (children) {
             this.children = children;
         }  
+    }
+
+    static escapeumlaut(name: string) : string {
+        // return name.
+        //     replace("Ä", "\u00c4").
+        //     replace("ä", "\u00e4").
+        //     replace("Ö", "\u00d6").
+        //     replace("ö", "\u00f6").
+        //     replace("Ü", "\u00dc").
+        //     replace("ü", "\u00fc").
+        //     replace("ß", "\u00df");
+
+        return name.
+            replace("Ä", Page.b64_to_utf8("w4Q=")).
+            replace("ä", Page.b64_to_utf8("w6Q=")).
+            replace("Ö", Page.b64_to_utf8("w5Y=")).
+            replace("ö", Page.b64_to_utf8("w7Y=")).
+            replace("Ü", Page.b64_to_utf8("w5w=")).
+            replace("ü", Page.b64_to_utf8("w7w=")).
+            replace("ß", Page.b64_to_utf8("w58="));
+    }
+
+    static utf8_to_b64( str : string ) : string {
+      return window.btoa(unescape(encodeURIComponent( str )));
+    }
+
+    static b64_to_utf8( str : string) : string {
+      return decodeURIComponent(escape(window.atob( str )));
     }
 }
 
