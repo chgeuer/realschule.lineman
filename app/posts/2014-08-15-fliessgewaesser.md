@@ -14,9 +14,9 @@ Ausgestattet mit Fangnetzen, Becherlupen und Bestimmungsschl&uuml;sseln suchten 
 
 Die gefundenen Zeigerorganismen lie&szlig;en den Schluss zu, dass sich der Wupperabschnitt, an dem wir uns aufhielten, zwischen den Gew&auml;sserg&uuml;teklassen I und II befindet, also gering bis m&auml;&szlig;ig mit Schadstoffen belastet ist. 
 
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_1.jpg"></p>
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_2.jpg"></p>
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_3.jpg"></p>
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_4.jpg"></p>
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_5.jpg"></p>
-<p><img src="../img/2014/06/03/20140603_fliessgewaesser_6.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_1.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_2.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_3.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_4.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_5.jpg"></p>
+<p><img src="img/2014/06/03/20140603_fliessgewaesser_6.jpg"></p>

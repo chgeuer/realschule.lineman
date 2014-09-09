@@ -21,8 +21,10 @@ module.exports = (lineman) ->
           archive: "app/templates/blog.us"
           lastpost: "app/templates/index.us"
         paths: 
-          lastpost: "lastpost.html",
-          archive: "blog.html",
+          lastpost: "lastpost.html"
+          archive: "blog.html"
           rss: "index.xml"
+        "pathRoots":
+          "posts": ""
         rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation
         #disqus: "my_disqus_name" #<-- uncomment and set your disqus account name to enable disqus support
