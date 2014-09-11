@@ -1,6 +1,6 @@
 ---
 title:  "Tag der offenen T&uuml;r 2013"
-date: "2013-12-07 11:00:00"
+date: "2013-12-07"
 published: true
 ---
 

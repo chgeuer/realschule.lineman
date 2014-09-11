@@ -3,4 +3,15 @@
 
 <p>Wir begr&uuml;&szlig;en Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie alle Informationen finden. Unsere Internetseite richtet sich an Besucher, an die Eltern, die Sch&uuml;ler und an die Lehrer. Sie dient auch dem Informationsaustausch innerhalb der Schule! </p>
 
-<%= site.htmlFor(_(site.posts).last()) %>
+<h2>Aktuelle Blog-Eintr&auml;ge</h2>
+<ul>
+<% _(site.posts).chain().reverse().first(5).each(function(post){ %>
+  <li>
+    <%= post.attributes.date %>: <a href=".<%= post.htmlPath() %>"><%= post.title() %></a>
+  </li>
+<% }) %>
+<li><a href="./blog.html">&Auml;ltere Eintr&auml;ge</a></li>
+</ul>
+
+
+<%= site.htmlFor(_(site.posts).first()) %>

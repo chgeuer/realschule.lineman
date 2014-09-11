@@ -1,6 +1,6 @@
 ---
 title: "Besuch in der Zentralambulanz des Lukaskrankenhauses Neuss"
-date: "2013-06-26 11:00:00"
+date: "2013-06-26"
 published: true
 ---
 

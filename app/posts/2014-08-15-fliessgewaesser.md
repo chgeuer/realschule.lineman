@@ -1,6 +1,6 @@
 ---
 title:  "Flie&szlig;gew&auml;sseruntersuchung an der Wupper am 03.06.14"
-date: "2014-08-15 12:00:00"
+date: "2014-08-15"
 published: true
 author:
   name: ""

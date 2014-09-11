@@ -1,6 +1,6 @@
 ---
 title:  "Beweglichen Ferientage 2014"
-date: "2014-01-10 11:00:00"
+date: "2014-01-10"
 published: true
 ---
 

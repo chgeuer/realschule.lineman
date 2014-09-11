@@ -1,6 +1,6 @@
 ---
 title:  "Abschlussklassen der Realschule Golzheim spenden f&uuml;r Kinderkrebsklinik"
-date: "2014-07-07 12:00:00"
+date: "2014-07-07"
 published: true
 ---
 

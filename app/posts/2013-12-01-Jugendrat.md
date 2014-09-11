@@ -1,6 +1,6 @@
 ---
 title: "Wahl des Duesseldorfer Jugendrates"
-date: "2013-12-01 11:00:24"
+date: "2013-12-01"
 author: "Realschule Golzheim"
 published: true
 ---

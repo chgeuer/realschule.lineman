@@ -1,6 +1,6 @@
 ---
 title: "AG Externe Kooperationspartner"
-date: "2013-05-31 11:00:00"
+date: "2013-05-31"
 published: true
 ---
 

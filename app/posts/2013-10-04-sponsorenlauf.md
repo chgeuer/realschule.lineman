@@ -1,6 +1,6 @@
 ---
 title: "Sponsorenlauf"
-date: "2013-10-04 11:00:00"
+date: "2013-10-04"
 published: true
 ---
 

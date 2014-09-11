@@ -1,6 +1,6 @@
 ---
 title:  "Berufsinformation &uuml;ber Ausbildungsberufe in der Hotellerie"
-date: "2014-05-28 13:45:00"
+date: "2014-05-28"
 published: true
 ---
 

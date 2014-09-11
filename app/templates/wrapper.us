@@ -3,6 +3,7 @@
   <head>
     <link rel="stylesheet" type="text/css" href=".<%= css %>" media="all" />
     <link rel="alternate" type="application/rss+xml" title="<%= site.title %> - feed" href="index.xml" />
+    <meta name="keywords" content="Realschule Golzheim, Realschule Tersteegenstrasse, Realschule Düsseldorf Golzheim, Agnes-Miegel-Realschule">
     <title><%= site.title %><%= post ? ' - ' + post.title() : '' %></title>
   </head>
   <body class="full-page {{page.body_css}}" data-ng-controller="Navigation">

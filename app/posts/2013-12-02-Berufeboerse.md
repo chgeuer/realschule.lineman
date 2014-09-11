@@ -1,6 +1,6 @@
 ---
 title: "Dritte Berufeb&ouml;rse an der Realschule Golzheim"
-date: "2013-12-02 11:00:24"
+date: "2013-12-02"
 author: "Realschule Golzheim"
 published: true
 ---
