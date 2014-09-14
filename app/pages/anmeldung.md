@@ -7,67 +7,54 @@ published: true
 
 Nicht nur Ihr Kind ist neu an der Realschule Golzheim – auch f&uuml;r Sie wird erst mal alles fremd sein. Damit Sie auch hier schnell vertraute Gesichter und klare Abl&auml;ufe finden, m&ouml;chte die Elternvertretung Ihnen einige Informationen an die Hand geben, die den Einstieg erleichtern:
 
-Die &uuml;bersicht „Unsere Schule auf einen Blick“ kann –am K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut– bei pl&ouml;tzlichen Fragen eine schnelle Antwort geben. 
+Die &Uuml;bersicht „Unsere Schule auf einen Blick“ kann –am K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut– bei pl&ouml;tzlichen Fragen eine schnelle Antwort geben. 
 
 Dar&uuml;ber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt sich, sie regelm&auml;&szlig;ig zu besuchen, weil dort auch tagesaktuelle Schul-Ereignisse, Ank&uuml;ndigungen und R&uuml;ckblicke zu lesen sind! Vor allem soll sie einen tiefen Einblick in den Schulalltag und seine Hintergr&uuml;nde geben... (mehr in den beiden untenstehenden Dokumenten).
 
 
 ####  Elternbegr&uuml;&szlig;ung
 
-	Liebe Eltern - herzlich willkommen bei uns!
+<pre>
+Liebe Eltern - herzlich willkommen bei uns!
 
-	Nicht nur Ihr Kind ist neu an der Realschule Golzheim – 
-	auch f&uuml;r Sie ist erst mal alles fremd. Damit Sie auch 
-	hier schnell vertraute Gesichter und klare Abl&auml;ufe 
-	finden, m&ouml;chte die Elternvertretung Ihnen einige 
-	Informationen an die Hand geben, die den Einstieg 
-	erleichtern:
+Nicht nur Ihr Kind ist neu an der Realschule Golzheim – 
+auch f&uuml;r Sie ist erst mal alles fremd. Damit Sie auch 
+hier schnell vertraute Gesichter und klare Abl&auml;ufe 
+finden, m&ouml;chte die Elternvertretung Ihnen einige 
+Informationen an die Hand geben, die den Einstieg 
+erleichtern:
 
-	Die &uuml;bersicht „Unsere Schule auf einen Blick“ kann – am 
-	K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut –
-	bei pl&ouml;tzlichen Fragen eine rasche Antwort geben.
+Die &uuml;bersicht „Unsere Schule auf einen Blick“ kann – am 
+K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut –
+bei pl&ouml;tzlichen Fragen eine rasche Antwort geben.
 
-	Dar&uuml;ber hinaus bietet unsere Internetseite viele Infos. 
-	Es lohnt sich, sie regelm&auml;&szlig;ig zu besuchen, weil dort auch 
-	tagesaktuelle Schul-Ereignisse, Terminank&uuml;ndigungen und 
-	R&uuml;ckblicke zu lesen sind! Vor allem soll sie einen tiefen 
-	Einblick in den Schulalltag und seine Hintergr&uuml;nde geben. 
-	Aber auch unsere Linksammlung kann sich sehen lassen: 
-	Die Links sind ausnahmslos praxiserprobt und meist mit 
-	Kurzbeschreibungen des Inhalts versehen!
+Dar&uuml;ber hinaus bietet unsere Internetseite viele Infos. 
+Es lohnt sich, sie regelm&auml;&szlig;ig zu besuchen, weil dort auch 
+tagesaktuelle Schul-Ereignisse, Terminank&uuml;ndigungen und 
+R&uuml;ckblicke zu lesen sind! Vor allem soll sie einen tiefen 
+Einblick in den Schulalltag und seine Hintergr&uuml;nde geben. 
+Aber auch unsere Linksammlung kann sich sehen lassen: 
+Die Links sind ausnahmslos praxiserprobt und meist mit 
+Kurzbeschreibungen des Inhalts versehen!
 
-	Eine St&uuml;tze unserer Schule ist der F&ouml;rderverein. 
-	Er gibt Zusch&uuml;sse f&uuml;r die Anschaffung von besonderem 
-	Unterrichtsmaterial und springt ein, wenn Sch&uuml;ler aus 
-	finanziellen Gr&uuml;nden nicht an einer Gemeinschaftsunternehmung 
-	teilnehmen k&ouml;nnten. Die Mittel daf&uuml;r kommen durch viele 
-	kleine Mitgliedsbeitr&auml;ge zusammen – wir bitten Sie deshalb, 
-	dem F&ouml;rderverein f&uuml;r einen Jahresbeitrag von nur 15 Euro (!) beizutreten.
+Eine St&uuml;tze unserer Schule ist der F&ouml;rderverein. 
+Er gibt Zusch&uuml;sse f&uuml;r die Anschaffung von besonderem 
+Unterrichtsmaterial und springt ein, wenn Sch&uuml;ler aus 
+finanziellen Gr&uuml;nden nicht an einer Gemeinschaftsunternehmung 
+teilnehmen k&ouml;nnten. Die Mittel daf&uuml;r kommen durch viele 
+kleine Mitgliedsbeitr&auml;ge zusammen – wir bitten Sie deshalb, 
+dem F&ouml;rderverein f&uuml;r einen Jahresbeitrag von nur 15 Euro (!) beizutreten.
 
-	Das ist nicht die Welt, aber er kann die Welt unserer Kinder ver&auml;ndern…
+Das ist nicht die Welt, aber er kann die Welt unserer Kinder ver&auml;ndern…
 
-	Wenn Sie Fragen haben oder Unterst&uuml;tzung w&uuml;nschen, 
-	k&ouml;nnen Sie die Elternvertreter der Schule (Schulpflegschaft) 
-	unter folgender Mail-Adresse erreichen: 
+Wenn Sie Fragen haben oder Unterst&uuml;tzung w&uuml;nschen, 
+k&ouml;nnen Sie die Elternvertreter der Schule (Schulpflegschaft)
+unter folgender Mail-Adresse erreichen: 
 
-	    rsgolzheimschulpflegschaft@gmx.de
+	<a href="mailto:rsgolzheimschulpflegschaft@gmx.de">rsgolzheimschulpflegschaft@gmx.de</a>
 
-	Ihre Schulpflegschaft
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ihre Schulpflegschaft
+</pre>
 
 ### Elternbogen - Unsere Schule auf einen Blick
 

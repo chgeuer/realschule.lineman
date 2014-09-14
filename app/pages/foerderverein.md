@@ -11,12 +11,13 @@ Der F&ouml;rderverein sieht seine vornehmste Aufgabe darin, die Lehrkr&auml;fte 
 
 Postanschrift: 
 
-	F&ouml;rderverein der St&auml;dtischen Realschule Golzheim in D&uuml;sseldorf e.V.
-	Tersteegenstra&szlig;e 62
-	40474 D&uuml;sseldorf
+<pre>
+F&ouml;rderverein der St&auml;dtischen Realschule Golzheim in D&uuml;sseldorf e.V.
+Tersteegenstra&szlig;e 62
+40474 D&uuml;sseldorf
+</pre>
 
 ## Downloads
 
 - [<i class="fa fa-cloud-download"></i> Satzung des F&ouml;rdervereins](foerderverein-realschule-golzheim-satzung.pdf) und 
 - [<i class="fa fa-cloud-download"></i> Beitrittserkl&auml;rung des F&ouml;rdervereins](foerderverein-realschule-golzheim-beitrittserklaerung.pdf) 
-

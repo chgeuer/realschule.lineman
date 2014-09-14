@@ -136,7 +136,7 @@ Ziel: Planerstellung zur Renaturierung eines D&uuml;sselabschnitts und Neugestal
 
 #### Einf&uuml;hrung und Start der Gruppenarbeit
 
-Der erste Projekttag am 23.02.2010 fand bei eisigem Regenwetter vor Ort im Parkgel&auml;nde an der Buscher M&uuml;hle statt. &uuml;ber die Eing&auml;nge Mulvanystra&szlig;e oder J&uuml;licher Stra&szlig;e kommt man in den Buscher Park. Das Gel&auml;nde teilt sich in drei Abschnitte:
+Der erste Projekttag am 23.02.2010 fand bei eisigem Regenwetter vor Ort im Parkgel&auml;nde an der Buscher M&uuml;hle statt. &Uuml;ber die Eing&auml;nge Mulvanystra&szlig;e oder J&uuml;licher Stra&szlig;e kommt man in den Buscher Park. Das Gel&auml;nde teilt sich in drei Abschnitte:
 
 1. der kleine, &ouml;ffentlichen Park mit dem M&uuml;hlenteich und der Buscher M&uuml;hle
 2. der private Garten mit altem Baumbestand rund um ein altes Geb&auml;ude und eine Ruine
