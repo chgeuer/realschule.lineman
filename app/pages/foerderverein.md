@@ -19,5 +19,5 @@ Tersteegenstra&szlig;e 62
 
 ## Downloads
 
-- [<i class="fa fa-cloud-download"></i> Satzung des F&ouml;rdervereins](foerderverein-realschule-golzheim-satzung.pdf) und 
-- [<i class="fa fa-cloud-download"></i> Beitrittserkl&auml;rung des F&ouml;rdervereins](foerderverein-realschule-golzheim-beitrittserklaerung.pdf) 
+- [<i class="fa fa-cloud-download"></i> Satzung des F&ouml;rdervereins](materials/foerderverein/satzung-foerderverein-realschule-golzheim.pdf) und 
+- [<i class="fa fa-cloud-download"></i> Beitrittserkl&auml;rung des F&ouml;rdervereins](materials/foerderverein/foerderverein-realschule-golzheim-beitrittserklaerung.pdf) 
