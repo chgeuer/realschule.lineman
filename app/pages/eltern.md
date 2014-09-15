@@ -11,9 +11,6 @@ Die &Uuml;bersicht „Unsere Schule auf einen Blick“ kann – am K&uuml;chensc
 
 Dar&uuml;ber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt sich, sie regelm&auml;&szlig;ig zu besuchen, weil dort auch tagesaktuelle Schul-Ereignisse, Ank&uuml;ndigungen und R&uuml;ckblicke zu lesen sind! Vor allem soll sie einen tiefen Einblick in den Schulalltag und seine Hintergr&uuml;nde geben...
 
-- [Elternbegr&uuml;&szlig;ung]({{ site.schule }}/02-anmeldung/res/elternbegruessung.pdf)
-- [&Uuml;bersicht wichtiger Schul-Daten]({{ site.schule }}/02-anmeldung/res/elternbogen.pdf)
-
 # Grillfest der Eltern
 
 Auch im Jahr 2011 hatte die Schulpflegschaft wieder zum beliebten Grillfest der Elternschaft im September eingeladen. Es gab f&uuml;r Eltern und Lehrer "Bierchen, W&auml;sserchen und W&uuml;rstchen" unter den B&auml;umen auf dem Schulhof, um sich kennenzulernen und auszutauschen. Das Wetter hatte gehalten, und so sa&szlig; man noch lange zum Plausch beisammen...
