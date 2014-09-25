@@ -5,7 +5,7 @@ published: true
 
 Liebe Eltern und Erziehungsberechtigte, 
 
-Wir freuen uns, dass Sie Interesse an unserem Schulprogramm zeigen. Hier haben wir relevante Inhalte f&uuml;r Sie zusammen gestellt. Dem schulischen Erfolg Ihres Kindes f&uuml;hlen wir uns aus einer mehr als 100-j&auml;hrigen Tradition verpflichtet. Diese haben wir „modernisiert“ ins 21. Jahrhundert &uuml;bernommen. Schule hei&szlig;t heute keine „Lernfabrik“. Viele verschiedene Kompetenzen werden heute in der Schule erlernt und geschult. Wir als Realschule Golzheim versuchen mit unserer Arbeit eine positive Verhaltensanpassung Ihres Kindes zu erreichen. Diese bewirkt bei vielen Kindern einen positiven Lernerfolg. Schulerfolg hei&szlig;t „selber wollen“. Daran m&ouml;chten wir mit Ihnen gemeinsam arbeiten. 
+Wir freuen uns, dass Sie Interesse an unserem Schulprogramm zeigen. Hier haben wir relevante Inhalte f&uuml;r Sie zusammen gestellt. Dem schulischen Erfolg Ihres Kindes f&uuml;hlen wir uns aus einer mehr als 100-j&auml;hrigen Tradition verpflichtet. Diese haben wir "modernisiert" ins 21. Jahrhundert &uuml;bernommen. Schule hei&szlig;t heute keine "Lernfabrik". Viele verschiedene Kompetenzen werden heute in der Schule erlernt und geschult. Wir als Realschule Golzheim versuchen mit unserer Arbeit eine positive Verhaltensanpassung Ihres Kindes zu erreichen. Diese bewirkt bei vielen Kindern einen positiven Lernerfolg. Schulerfolg hei&szlig;t "selber wollen". Daran m&ouml;chten wir mit Ihnen gemeinsam arbeiten. 
 
 - <a ng-click="scrollTo('buddyprogramm')">buddY-Programm</a>
 - <a ng-click="scrollTo('klassenrat')">Klassenrat</a>
@@ -26,9 +26,11 @@ Wir freuen uns, dass Sie Interesse an unserem Schulprogramm zeigen. Hier haben w
 
 # <a name="buddyprogramm"></a> Das buddY-Programm 
 
-	AUFEINANDER ACHTEN. F&Uuml;REINANDER DA SEIN. MITEINANDER LERNEN.	
+<pre>
+AUFEINANDER ACHTEN. F&Uuml;REINANDER DA SEIN. MITEINANDER LERNEN.	
+</pre>
 
-Das buddY-Programm ist ein „peergroup“ orientiertes Bildungsprogramm (Peergroup-Education meint das Lehren oder Teilen von Informationen, Werten und Verhaltensweisen sowie das Helfen, Beraten und Vermitteln bei Konflikten durch eine Gruppe von Gleichaltrigen oder Gleichgesinnten), zur F&ouml;rderung und Entwicklung pers&ouml;nlicher Handlungskompetenzen von Sch&uuml;lern. Das buddY-Programm richtet sich an alle Jahrgangsstufen, ist an der Realschule Golzheim fest verankert und wird in allen Bereichen gefestigt und gef&ouml;rdert.
+Das buddY-Programm ist ein "peergroup" orientiertes Bildungsprogramm (Peergroup-Education meint das Lehren oder Teilen von Informationen, Werten und Verhaltensweisen sowie das Helfen, Beraten und Vermitteln bei Konflikten durch eine Gruppe von Gleichaltrigen oder Gleichgesinnten), zur F&ouml;rderung und Entwicklung pers&ouml;nlicher Handlungskompetenzen von Sch&uuml;lern. Das buddY-Programm richtet sich an alle Jahrgangsstufen, ist an der Realschule Golzheim fest verankert und wird in allen Bereichen gefestigt und gef&ouml;rdert.
 
 - Hausaufgaben-BuddYs
 - Streitschlichter-BuddYs
@@ -48,13 +50,16 @@ Das buddY-Programm will die pers&ouml;nlichen Handlungskompetenzen von Sch&uuml;
 ## Methoden
 
 Die OECD hat drei Kernkompetenzen definiert, die in allen Bildungssystemen vermittelt werden sollten:
+
 - selbstst&auml;ndig handeln k&ouml;nnen
 - Werkzeuge konstruktiv und reflexiv nutzen k&ouml;nnen
 - in heterogenen Gruppen erfolgreich miteinander umgehen bzw. gemeinsam handeln k&ouml;nnen.
 
 M&ouml;glichkeiten der Evaluation: Eltern- und Sch&uuml;lerfragenbogen sowie deren Auswertung. 
 
-Ansprechpartner sind Herr Me&szlig;ink und Frau Brandl sowie zuk&uuml;nftig auch Frau Wagner und Herr Strucken. 
+## Ansprechpartner 
+
+Herr Me&szlig;ink und Frau Brandl sowie zuk&uuml;nftig auch Frau Wagner und Herr Strucken. 
 
 ## Ausblick
 
@@ -119,7 +124,7 @@ F&uuml;r Jahrgangsstufe 9 m&ouml;glich.
 
 ## Situation an der Realschule Golzheim
 
-Die Ausbildung der Sch&uuml;ler in Erster Hilfe findet an der Realschule Golzheim in Klasse 9 f&uuml;r alle Sch&uuml;ler durch die Teilnahme an einem zweit&auml;gigen Erste-Hilfe-Kurs statt. Anschlie&szlig;end besuchen die Sch&uuml;lerinnen und Sch&uuml;ler auf freiwilliger Basis eine Arbeitsgemeinschaft eine Stunden pro Woche am Nachmittag. Sie wird geleitet von der Betreuungslehrerin, die beim DRK die Lehrbef&auml;higung in Erster Hilfe erworben hat. Im ersten Schulhalbjahr arbeiten die „Neuen“ als Ersthelfer zusammen mit erfahrenen Schulsanis. Nach Bew&auml;hrung werden sie dann als Schulsanit&auml;ter eingesetzt.
+Die Ausbildung der Sch&uuml;ler in Erster Hilfe findet an der Realschule Golzheim in Klasse 9 f&uuml;r alle Sch&uuml;ler durch die Teilnahme an einem zweit&auml;gigen Erste-Hilfe-Kurs statt. Anschlie&szlig;end besuchen die Sch&uuml;lerinnen und Sch&uuml;ler auf freiwilliger Basis eine Arbeitsgemeinschaft eine Stunden pro Woche am Nachmittag. Sie wird geleitet von der Betreuungslehrerin, die beim DRK die Lehrbef&auml;higung in Erster Hilfe erworben hat. Im ersten Schulhalbjahr arbeiten die "Neuen" als Ersthelfer zusammen mit erfahrenen Schulsanis. Nach Bew&auml;hrung werden sie dann als Schulsanit&auml;ter eingesetzt.
 
 ## Bedarf
 
@@ -133,7 +138,7 @@ Mitsch&uuml;lerInnen.
 ## Methoden:
 
 - Schulsanis leisten Erste Hilfe bei Unf&auml;llen, Verletzungen und Krankheiten.
-- Schulsanis dokumentieren ihre Eins&auml;tze im „Verbandbuch“.
+- Schulsanis dokumentieren ihre Eins&auml;tze im "Verbandbuch".
 - Schulsanis weisen auf Gefahrenquellen in der Schule hin und tragen zu deren Beseitigung bei.
 - Schulsanis &uuml;bernehmen, mit den jeweiligen BetreuungslehrerInnen zusammen, die Pflege und Wartung des Schulsanit&auml;tsmaterials.
 
@@ -175,7 +180,7 @@ Durch vielf&auml;ltige Aktionen leisten wir einen wichtigen Beitrag, die Lesekom
 
 - Seit 2006 – Lesungen in der Adventszeit (Sch&uuml;ler und Lehrer lesen jeden Morgen f&uuml;r interessierte 	Sch&uuml;ler)
 - seit 2012 – Vorstellung der Sch&uuml;lerb&uuml;cherei (Einf&uuml;hrungsveranstaltung f&uuml;r die Klassen 5 im Rahmen des 	Erg&auml;nzungsunterrichts Deutsch)
-- seit 2012 – „Offenes B&uuml;cherregal“ im Foyer (M&ouml;glichkeit zum B&uuml;chertausch)
+- seit 2012 – "Offenes B&uuml;cherregal" im Foyer (M&ouml;glichkeit zum B&uuml;chertausch)
 - seit 2013 – Beteilung am bundesweiten Vorlesetag; 
 - seit 3013 - Literarischer Adventskalender 
 
@@ -277,11 +282,11 @@ Schule: Herr M&uuml;ller
 
 ## Relevanz des Themas
 
-Neben den fachlichen Inhalten des Deutschunterrichts spielt das „Lernen lernen“ eine immer wichtigere Rolle. Die Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen nur dann erfolgreich lernen, wenn sie &uuml;ber vielf&auml;ltige Methoden verf&uuml;gen, die ihnen das Lernen erleichtern.
+Neben den fachlichen Inhalten des Deutschunterrichts spielt das "Lernen lernen" eine immer wichtigere Rolle. Die Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen nur dann erfolgreich lernen, wenn sie &uuml;ber vielf&auml;ltige Methoden verf&uuml;gen, die ihnen das Lernen erleichtern.
 
 ## Jahrgangsstufe
 
-„Lernen lernen“ wird an unserer Schule in den Klassen 5 und 6 im Rahmen des ED- Unterrichtes (Erg&auml;nzung Deutsch) durchgef&uuml;hrt.
+"Lernen lernen" wird an unserer Schule in den Klassen 5 und 6 im Rahmen des ED- Unterrichtes (Erg&auml;nzung Deutsch) durchgef&uuml;hrt.
 
 ## Situation an der Realschule Golzheim
 
@@ -587,7 +592,7 @@ Alle Ma&szlig;nahmen k&ouml;nnen nur dann wirklich ihr p&auml;dagogisches Ziel e
 
 
 
-# <a name="sanfteruebergang"></a>„Sanfter &Uuml;bergang“- Klasse 5 
+# <a name="sanfteruebergang"></a>"Sanfter &Uuml;bergang"- Klasse 5 
 
 Die 5. Klassen werden aus Sch&uuml;lerInnen der verschiedenen Grundschulen gebildet und m&uuml;ssen sich in der Umgebung der Realschule Golzheim, mit einem wesentlich h&ouml;heren Sch&uuml;ler-, Lehrer-, und Raumangebot zurechtfinden. Um den Sch&uuml;lerInnen den Start zu erleichtern legen wir Wert darauf, dass sie fr&uuml;hzeitig im eigenen Klassenverband einen R&uuml;ckhalt erfahren. 
 
@@ -656,7 +661,7 @@ Die Aus&uuml;bung der einzelnen Sportarten findet teilweise in Kooperation mit V
 
 Die Methodentage unterst&uuml;tzen die Einf&uuml;hrung einzelner komplexer Methoden oder k&ouml;nnen auch die Anwendung bereits bekannter Methoden &uuml;berpr&uuml;fen und den Umgang mit diesen vertiefen. Vorzugsweise finden die Methodentage am Tag der Halbjahreszeugnisse statt. Zus&auml;tzliche Methodentage k&ouml;nnen von der Lehrerkonferenz beschlossen werden.
 
-Die Methodentage umfassen in der Regel drei Unterrichtsstunden á 67,5 Minuten. Das Zeitraster wird an diesen Tagen flexibel an die Planung angepasst. An diesen Tagen k&ouml;nnen die einzelnen Klassen sowohl alle die gleichen Methoden als auch f&uuml;r die jeweilige Jahrgangsstufe ausgew&auml;hlte Methoden erlernen. Die Einf&uuml;hrung der Methoden kann durch die Klassenlehrer oder durch „Experten“ f&uuml;r die jeweilige Methode erfolgen. Damit alle Sch&uuml;ler die gleichen Grundlagen vermittelt bekommen, werden Erl&auml;uterungen zu den Methoden und die ben&ouml;tigten Materialien mit genauen Handlungsanweisungen f&uuml;r alle Klassen und Lehrer bereitgestellt.
+Die Methodentage umfassen in der Regel drei Unterrichtsstunden á 67,5 Minuten. Das Zeitraster wird an diesen Tagen flexibel an die Planung angepasst. An diesen Tagen k&ouml;nnen die einzelnen Klassen sowohl alle die gleichen Methoden als auch f&uuml;r die jeweilige Jahrgangsstufe ausgew&auml;hlte Methoden erlernen. Die Einf&uuml;hrung der Methoden kann durch die Klassenlehrer oder durch "Experten" f&uuml;r die jeweilige Methode erfolgen. Damit alle Sch&uuml;ler die gleichen Grundlagen vermittelt bekommen, werden Erl&auml;uterungen zu den Methoden und die ben&ouml;tigten Materialien mit genauen Handlungsanweisungen f&uuml;r alle Klassen und Lehrer bereitgestellt.
 
 
 
