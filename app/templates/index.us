@@ -4,7 +4,9 @@
 
 
 <h2>1. D&uuml;sseldorfer Realschultag</h2>
-<p>Am Donnerstag, den 23. Oktober 2014, ist der 1. D&uuml;sseldorfer Realschultag <a href="http://realschulen-duesseldorf.de/6-0-Aktuelle-Termine.html">www.realschulen-duesseldorf.de</a>). Vormittags k&ouml;nnen die Grundschulen einen Schulbesuch mit ihrer Klasse machen, nachmittags ab 14:00 findet das Austauschcafe (für Grundschullehrer und -lehrerinnen) statt, und Abends ab 19:30 finden in der <a href="http://www.rs-freiherr-vom-stein.eschool.de/">Freiherr-vom-Stein-Realschule</a> und <a href="http://www.thomas-edison-realschule.de/">Thomas-Edison-Realschule</a> einst&uuml;ndige Informations-Abende f&uuml;r Eltern statt. </p>
+<p>Am Donnerstag, den 23. Oktober 2014, ist der 1. D&uuml;sseldorfer Realschultag <a href="http://realschulen-duesseldorf.de/6-0-Aktuelle-Termine.html">www.realschulen-duesseldorf.de</a>). Vormittags k&ouml;nnen die Grundschulen einen Schulbesuch mit ihrer Klasse machen, nachmittags ab 14:00 findet das Austauschcafe (f&uuml;r Grundschullehrer und -lehrerinnen) statt, und Abends ab 19:30 finden in der <a href="http://schulen.duesseldorf.de/rs-faerberstr/">Freiherr-vom-Stein-Realschule</a> und <a href="http://www.thomas-edison-realschule.de/">Thomas-Edison-Realschule</a> einst&uuml;ndige Informations-Abende f&uuml;r Eltern statt. </p>
+
+<p><img src="http://schulen.duesseldorf.de/rs-faerberstr/realschultag/files/flyer.jpg"></img></src>
 
 
 <h2>Aktuelle Blog-Eintr&auml;ge</h2>
@@ -15,9 +17,6 @@
     <%= post.attributes.date %>: <a href=".<%= post.htmlPath() %>"><%= post.title() %></a>
   </li>
 <% }) %>
-<li><a href="./blog.html">&Auml;ltere Eintr&auml;ge</a></li>
+<li><a href="./blog.html">Alle Eintr&auml;ge</a></li>
 </ul>
 
-<!--
-<%= site.htmlFor(_(site.posts).first()) %>
--->
