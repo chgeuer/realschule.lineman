@@ -56,13 +56,18 @@ angular
 
 angular
     .module('app')
-    .controller('Navigation', ['$scope', '$http', '$location', navigation]);
+    .controller('Navigation', ['$scope', '$http', '$location', '$anchorScroll', navigation]);
 
-function navigation($scope: any, $http: any, $location: any) {
+function navigation($scope: any, $http: any, $location: any, $anchorScroll: any) {
     $scope.locationpath = $location.path();
     $scope.locationwindow = window.location.href;
     $scope.data = getNavigationData(".");
     setActiveClassAttribute($scope.data, $scope.locationwindow, ".");
+
+    $scope.scrollTo = function(id) {
+        $location.hash(id);
+        $anchorScroll();
+    }
 }
 
 function setActiveClassAttribute(data, currentLocation, siteUrl) {
