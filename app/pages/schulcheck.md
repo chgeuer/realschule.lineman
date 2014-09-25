@@ -13,7 +13,7 @@ So wie Thomas Ibing (Fa. Ibing & Rechmann GmbH, Berufsbild: Elektroniker/in f&uu
 
 Daneben wurden auch das Freiwillige Soziale Jahr und die Angebote der weiterf&uuml;hrenden Schulen der Sekundarstufe II vorgestellt. Die Berufsberatung der Arbeitsagentur stand den Sch&uuml;lern zur Verf&uuml;gung, deren Wunschberuf nicht vertreten war oder die sich erst allgemein orientieren wollten.
 
-Nach der Begr&uuml;&szlig;ung durch Herrn Maa&szlig;en konnten die rund 120 Sch&uuml;ler in drei halbst&uuml;ndigen, intensiven Runden an den „Gespr&auml;chsinseln“ ihre Fragen loswerden. Viele Referenten hatten auch Gegenst&auml;nde aus ihrem Arbeitsalltag mitgebracht. So lie&szlig; Thomas Weindel vom D&uuml;sseldorfer Vermessungs- und Liegenschaftsamt die Sch&uuml;ler selber mit einem elektronischen Tachymeter-Signal verschiedene Strecken und Winkel zu einem in der Aula versteckten Reflektor messen.
+Nach der Begr&uuml;&szlig;ung durch Herrn Maa&szlig;en konnten die rund 120 Sch&uuml;ler in drei halbst&uuml;ndigen, intensiven Runden an den "Gespr&auml;chsinseln" ihre Fragen loswerden. Viele Referenten hatten auch Gegenst&auml;nde aus ihrem Arbeitsalltag mitgebracht. So lie&szlig; Thomas Weindel vom D&uuml;sseldorfer Vermessungs- und Liegenschaftsamt die Sch&uuml;ler selber mit einem elektronischen Tachymeter-Signal verschiedene Strecken und Winkel zu einem in der Aula versteckten Reflektor messen.
 
 Im Anschluss an die Veranstaltung sammelte die AG Externe Kooperationspartner, die die BerufeB&ouml;rse geplant und organisiert hatte, die Anregungen der Referenten. So werden die Berufsbezeichnungen noch verst&auml;ndlicher formuliert und der rote Sch&uuml;ler-Fragebogen weiter abgespeckt. Auch sollen die Sch&uuml;ler st&auml;rker angehalten werden, sich mit ihrem eingetragenen Wunschberuf bereits im Vorfeld der BerufeB&ouml;rse auseinander zu setzen. 
 
@@ -109,14 +109,14 @@ Die vier Arbeitsgruppen "Fachunterricht/Individuelle F&ouml;rderung", "Schullebe
 
 Nat&uuml;rlich bleiben bei einem Workshop immer Themen und Ideen, die noch nicht aufgegriffen werden konnten: 
 
-- Unterrichtsprojekte zu „Strom-/Wassersparen/Klima/Recycling“
-- Projekte zum Thema „Gesunde Ern&auml;hrung“
+- Unterrichtsprojekte zu "Strom-/Wassersparen/Klima/Recycling"
+- Projekte zum Thema "Gesunde Ern&auml;hrung"
 - Konzept des Umgangs mit Hausaufgaben an der Schule
 - Projekte zur Sprache und Sprachkultur
 - Theaterprojekte
 - Projekte zum menschlichen Miteinander in der Schule
-- Entwicklung eines „Wir-Gef&uuml;hls“ an unserer Schule (T-Shirts u.&auml;.)
-- F&auml;cher&uuml;bergreifende Bearbeitung des WIU-Startprojekts zur Einschulung „Wir malen uns Erde und Menschen aus“
+- Entwicklung eines "Wir-Gef&uuml;hls" an unserer Schule (T-Shirts u.&auml;.)
+- F&auml;cher&uuml;bergreifende Bearbeitung des WIU-Startprojekts zur Einschulung "Wir malen uns Erde und Menschen aus"
 - St&auml;rkere Nutzung der Aquazoo-Kooperation
 - Unterst&uuml;tzung der Togo-AG
 - Gr&uuml;ndung einer Sch&uuml;ler-Firma (z.B. mit fair gehandelten Produkten)

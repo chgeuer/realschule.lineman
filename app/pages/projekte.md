@@ -49,7 +49,7 @@ Die Schulleitung und eine Fachlehrerin (Frau Woker) laden jedes Jahr alle Sch&uu
 
 ### Projekt "MAUER20FALL" in Klasse 8b - Kulissenbau und Rollenstudium im Politikunterricht
 
-Seit Beginn des Schuljahres 2010 arbeitete die heutige 8b unter der Leitung der Architektin und Kunstp&auml;dagogin Dr. Cristina Schulze-Hofer und der Tanzp&auml;dagogin und Choreographin Liana Del Degan und in Zusammenarbeit mit ihrer Klassenlehrerin Sonja Ulmrich an dem Projekt „Mauer20Fall“.
+Seit Beginn des Schuljahres 2010 arbeitete die heutige 8b unter der Leitung der Architektin und Kunstp&auml;dagogin Dr. Cristina Schulze-Hofer und der Tanzp&auml;dagogin und Choreographin Liana Del Degan und in Zusammenarbeit mit ihrer Klassenlehrerin Sonja Ulmrich an dem Projekt "Mauer20Fall".
 
 Schwerpunkt des Projektes war die Auseinandersetzung mit der Berliner Mauer - eine Hommage an den zwanzigj&auml;hrigen Mauerfall.
 
@@ -67,7 +67,7 @@ Gemeinsam mit unserem Referenten Dirk Poerschke vom LVR-Zentrum f&uuml;r Medien 
 
 ### D&uuml;sseldorf ganz anders - 9b entdeckt die Altstadt
 
-"Die Idee zu diesem Klassenausflug war auf einem Elternabend entstanden. Bei der Suche nach einer Klassenaktivit&auml;t hatte die Mutter einer Sch&uuml;lerin folgende Idee: „Die Altstadt ist der Ort, wo die Sch&uuml;ler die meiste Zeit verbringen. Trotzdem wissen sie eigentlich ziemlich wenig &uuml;ber die Geschichte oder die oft kuriosen und interessanten Anekdoten ihrer Heimatstadt.“
+"Die Idee zu diesem Klassenausflug war auf einem Elternabend entstanden. Bei der Suche nach einer Klassenaktivit&auml;t hatte die Mutter einer Sch&uuml;lerin folgende Idee: "Die Altstadt ist der Ort, wo die Sch&uuml;ler die meiste Zeit verbringen. Trotzdem wissen sie eigentlich ziemlich wenig &uuml;ber die Geschichte oder die oft kuriosen und interessanten Anekdoten ihrer Heimatstadt."
 
 So verabredeten wir uns Ende April mit einer erfahrenen Stadtf&uuml;hrerin, die uns D&uuml;sseldorf von einer ganz anderen Seite zeigte. Nachdem wir noch zwei Stunden Englisch &uuml;ber uns ergehen lassen mussten, trafen wir uns mit unserer Stadtf&uuml;hrerin um 11 Uhr vor dem Opernshop. Leider war das Wetter nach den ersten hei&szlig;en Tagen im Jahr wieder umgeschlagen und einige M&auml;dchen hatten sich zu d&uuml;nn angezogen – die Jungs halfen hier bereitwillig mit ihren Jacken aus und es konnte endlich losgehen, nachdem es drei Sch&uuml;ler doch tats&auml;chlich geschafft hatten, 10 Minuten zu sp&auml;t am Treffpunkt zu erscheinen!!! 
 
@@ -120,7 +120,7 @@ Die Texte erschienen in einer Projektzeitung, die der Rheinischen Post am 22.1.2
 
 ### Projekt "Renaturierung der D&uuml;ssel"
 
-Exemplarisch am Abschnitt „Buscher M&uuml;hle“ an der n&ouml;rdlichen D&uuml;ssel in Derendorf
+Exemplarisch am Abschnitt "Buscher M&uuml;hle" an der n&ouml;rdlichen D&uuml;ssel in Derendorf
 
 Kurs 8nc der Realschule Golzheim in Zusammenarbeit mit den Projektpartnern Stadtmuseum D&uuml;sseldorf und BDA (Bund Deutscher Architekten) D&uuml;sseldorf im Rahmen des Biologieunterrichts
 
@@ -144,7 +144,7 @@ Der erste Projekttag am 23.02.2010 fand bei eisigem Regenwetter vor Ort im Parkg
 
 In der Schule wurden im Rahmen des planm&auml;&szlig;igen Biologieunterrichts von den vier Gruppen zuerst eine Bestandsaufnahme des angetroffenen Gel&auml;ndezustandes erstellt, dann &uuml;berlegten sich die Gruppen M&ouml;glichkeiten zur Umgestaltung des Parks und des Gartens auf &ouml;kologischer Basis.
 
-Der zweite Projekttag fand am 10.03.2010 in den R&auml;umen des Stadtmuseums D&uuml;sseldorf an der Berger Allee statt. Zu Beginn gab es eine kompakte Einf&uuml;hrung in die laufende Ausstellung „&ouml;kologische Stadt“ durch Herrn Kreuter vom Stadtmuseum. 
+Der zweite Projekttag fand am 10.03.2010 in den R&auml;umen des Stadtmuseums D&uuml;sseldorf an der Berger Allee statt. Zu Beginn gab es eine kompakte Einf&uuml;hrung in die laufende Ausstellung "&ouml;kologische Stadt" durch Herrn Kreuter vom Stadtmuseum. 
 
 Unter Anleitung des Architekten Herrn Verhas und seiner Mitarbeiterin wurden die Projektideen in Pl&auml;ne, Skizzen, Zeichnungen und Modelle umgesetzt.
 

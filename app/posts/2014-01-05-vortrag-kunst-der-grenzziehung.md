@@ -16,7 +16,7 @@ Mit Hilfe praktischer Beispiele aus dem Erziehungsalltag von Kindergarten, Schul
 - wie Grenzen und Verhaltensregeln auch ohne Bestrafung erfolgreich durchgesetzt werden und
 - was dies f&uuml;r die eigene Rolle in der Erziehung bedeutet.
 
-Thomas Gr&uuml;ner ist Diplom-Psychologe. Nach mehrj&auml;hriger T&auml;tigkeit im Kinder und Jugendschutz, gr&uuml;ndete er das Freiburger Institut f&uuml;r Konflikt-Kultur. Er arbeitet seit Jahren mit Kindern aller Altersstufen und bildet bundesweit Fachkr&auml;fte in den Methoden von Konflikt-KULTUR aus. An vielen Schulen z&auml;hlen seine Methoden des sozialen Lernens zum Standard. Daneben leitet er Supervisionsgruppen und Seminare zu Erziehungsfragen. Zu seinen Ver&ouml;ffentlichungen z&auml;hlen die B&uuml;cher „Die kleine Elternschule“. „Bei STOPP ist Schluss!“ und „Das mach ich wieder gut!“ Er ist Vater einer Tochter und eines Sohnes. [www.konflikt-kultur-freiburg.de]
+Thomas Gr&uuml;ner ist Diplom-Psychologe. Nach mehrj&auml;hriger T&auml;tigkeit im Kinder und Jugendschutz, gr&uuml;ndete er das Freiburger Institut f&uuml;r Konflikt-Kultur. Er arbeitet seit Jahren mit Kindern aller Altersstufen und bildet bundesweit Fachkr&auml;fte in den Methoden von Konflikt-KULTUR aus. An vielen Schulen z&auml;hlen seine Methoden des sozialen Lernens zum Standard. Daneben leitet er Supervisionsgruppen und Seminare zu Erziehungsfragen. Zu seinen Ver&ouml;ffentlichungen z&auml;hlen die B&uuml;cher "Die kleine Elternschule". "Bei STOPP ist Schluss!" und "Das mach ich wieder gut!" Er ist Vater einer Tochter und eines Sohnes. [www.konflikt-kultur-freiburg.de]
 
 Datum: 11.02.2014, 20:00 Uhr bis ca. 21:30 Uhr
 

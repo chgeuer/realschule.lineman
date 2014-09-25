@@ -20,9 +20,11 @@ Frau Wagner ist eine Verbindung zwischen Schule und Jugendhilfe, und in ihrer Fu
 
 ### Sprechzeiten: 
 
-	Montags von 9.00 bis 14.30 Uhr
-	Mittwochs und Donnerstags von 9.00 bis 14.00 Uhr
-	Freitags von 9.00 bis 13.00 Uhr
-	und nach Vereinbarung 
+<pre>
+Montags von 9.00 bis 14.30 Uhr
+Mittwochs und Donnerstags von 9.00 bis 14.00 Uhr
+Freitags von 9.00 bis 13.00 Uhr
+und nach Vereinbarung 
 
-	Das B&uuml;ro befindet sich im Erdgeschoss, Raum 015.
+Das B&uuml;ro befindet sich im Erdgeschoss, Raum 015.
+</pre>

@@ -10,7 +10,7 @@ Interesse an der Entwicklung unserer Schule? Lust auf Mitgestalten? Dann k&ouml;
 
 Unsere Ziele: Die Planung, Organisation und Durchf&uuml;hrung der j&auml;hrlichen BerufeB&ouml;rse f&uuml;r die 9. Klassen, Unterst&uuml;tzung von Sch&uuml;ler-AGs, Kontaktaufnahme zu potentiellen Kooperationspartnern der Schule
 
-Hervorgegangen aus dem Projekt „Schul-Check“ (2010) setzt sich die Arbeitsgemeinschaft aus Eltern, einem Sch&uuml;lervertreter und einem Vertreter der Schulleitung zusammen. Sie m&ouml;chte die Schule in allen Bereichen unterst&uuml;tzen, f&uuml;r die die Zusammenarbeit mit externen Kooperationspartnern sinnvoll ist.
+Hervorgegangen aus dem Projekt "Schul-Check" (2010) setzt sich die Arbeitsgemeinschaft aus Eltern, einem Sch&uuml;lervertreter und einem Vertreter der Schulleitung zusammen. Sie m&ouml;chte die Schule in allen Bereichen unterst&uuml;tzen, f&uuml;r die die Zusammenarbeit mit externen Kooperationspartnern sinnvoll ist.
 
 Die Mitglieder der AG treffen sich etwa einmal monatlich in der Mediothek der Schule. Sie entscheiden frei &uuml;ber den Umfang ihres pers&ouml;nlichen Zeitaufwandes und stimmen sich zwischen den Treffen vor allem per E-Mail &uuml;ber die Fortschritte ab. Das garantiert gr&ouml;&szlig;tm&ouml;gliche Flexibilit&auml;t f&uuml;r den Einzelnen.
 

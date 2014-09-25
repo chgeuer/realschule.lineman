@@ -6,7 +6,7 @@ published: true
 
 ## F&ouml;rderung im Fach Franz&ouml;sisch - Vorbereitungskurs
 
-Seit dem Schuljahr 2010/2011 besteht die M&ouml;glichkeit, an der Realschule Golzheim in Kooperation mit dem D&uuml;sseldorfer „CCB Competence Center Begabtenf&ouml;rderung“ an einem Vorbereitungskurs zur DELF-Pr&uuml;fung teilzunehmen.
+Seit dem Schuljahr 2010/2011 besteht die M&ouml;glichkeit, an der Realschule Golzheim in Kooperation mit dem D&uuml;sseldorfer "CCB Competence Center Begabtenf&ouml;rderung" an einem Vorbereitungskurs zur DELF-Pr&uuml;fung teilzunehmen.
 
 Das Angebot richtet sich an begabte und motivierte Sch&uuml;lerinnen und Sch&uuml;ler der 10. Klassen aller Realschulen im D&uuml;sseldorfer Norden. 
 

@@ -9,7 +9,7 @@ Am 1. Oktober 1910 wurde an der Ehrenstra&szlig;e in D&uuml;sseldorf-Derendorf e
 
 Anfang November 1994 sind wir in unser jetziges Geb&auml;ude in der Tersteegenstra&szlig;e 62 umzogen. Aus der reinen M&auml;dchenschule war inzwischen 1983 eine Koedukationsschule geworden.
 
-Nach einer &ouml;ffentlichen Diskussion um unseren Schulnamen im November 2007 haben die zust&auml;ndigen Schulmitwirkungsgremien &uuml;ber eine Umbenennung unserer Schule beraten, die im Einklang mit unserem Schulprofil und unserem Schulprogramm stehen soll. Am 6. November 2008 ist der Rat der Landeshauptstadt D&uuml;sseldorf dem Vorschlag der Schulkonferenz gefolgt und hat die Umbenennung in „REALSCHULE GOLZHEIM“ beschlossen. Im Jahr 2010 haben wir unser 100j&auml;hriges Schuljubil&auml;um mit dem neuen Schulnamen gefeiert. 
+Nach einer &ouml;ffentlichen Diskussion um unseren Schulnamen im November 2007 haben die zust&auml;ndigen Schulmitwirkungsgremien &uuml;ber eine Umbenennung unserer Schule beraten, die im Einklang mit unserem Schulprofil und unserem Schulprogramm stehen soll. Am 6. November 2008 ist der Rat der Landeshauptstadt D&uuml;sseldorf dem Vorschlag der Schulkonferenz gefolgt und hat die Umbenennung in "REALSCHULE GOLZHEIM" beschlossen. Im Jahr 2010 haben wir unser 100j&auml;hriges Schuljubil&auml;um mit dem neuen Schulnamen gefeiert. 
 
 ## Es ist vorbei - aber es bleibt etwas!
 

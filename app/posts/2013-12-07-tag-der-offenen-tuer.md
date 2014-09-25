@@ -16,4 +16,4 @@ Sie erhalten wichtige Informationen zur Nachmittags- und Hausaufgabenbetreuung.
 Unsere Schulsozialarbeiterin stellt sich vor.
 ... und vor allem lernen Sie uns kennen, die Sch&uuml;lerinnen und Sch&uuml;ler, die Kolleginnen und Kollegen, Eltern und unsere schulischen Partner.
 
-Sie m&ouml;chten mehr erfahren? Besuchen Sie uns amDonnerstag 30.01.14 um 19 Uhr zu einer Elternveranstaltung „Von der Grundschule &uuml;ber die Realschule zum Abitur“ 
+Sie m&ouml;chten mehr erfahren? Besuchen Sie uns amDonnerstag 30.01.14 um 19 Uhr zu einer Elternveranstaltung "Von der Grundschule &uuml;ber die Realschule zum Abitur" 

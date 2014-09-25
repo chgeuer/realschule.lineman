@@ -6,21 +6,21 @@ published: true
 
 Wir wollen Kinder im &uuml;bergang von der Grundschule ...
 
-- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen („sanfter &uuml;bergang“),
+- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen ("sanfter &uuml;bergang"),
 - ... in ihren F&auml;higkeiten f&ouml;rdern und in ihrer Leistungsbereitschaft fordern,
 - ... beim Lernen des Lernens unterst&uuml;tzen, d.h. sie zu selbstst&auml;ndigem, ganzheitlichem und sozialem Lernen anhalten,
 - ... motivieren, sich selbst zu verbessern und zu korrigieren.
 
-Ein besonders wichtiges Element in dem Projekt „Lernen lernen“ ist die St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses. Kinder, die nach der Grundschule in die Sekundarschule wechseln, k&ouml;nnen verst&auml;ndlich schreiben und richtig abschreiben. Sie k&ouml;nnen selbstst&auml;ndig mit Lernw&ouml;rtern &uuml;ben, W&ouml;rter nachschlagen, Texte kontrollieren und korrigieren sowie mit Regeln umgehen. In keinem Bereich und bei keinem Kind sind diese Lernprozesse an ihrem Ende angelangt. Sie m&uuml;ssen vielmehr weiterentwickelt werden. Zudem empfindet ein Gro&szlig;teil der Kinder (etwa 70%) Lesen und Schreiben weder als etwas Notwendiges noch als Bereicherung. 
+Ein besonders wichtiges Element in dem Projekt "Lernen lernen" ist die St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses. Kinder, die nach der Grundschule in die Sekundarschule wechseln, k&ouml;nnen verst&auml;ndlich schreiben und richtig abschreiben. Sie k&ouml;nnen selbstst&auml;ndig mit Lernw&ouml;rtern &uuml;ben, W&ouml;rter nachschlagen, Texte kontrollieren und korrigieren sowie mit Regeln umgehen. In keinem Bereich und bei keinem Kind sind diese Lernprozesse an ihrem Ende angelangt. Sie m&uuml;ssen vielmehr weiterentwickelt werden. Zudem empfindet ein Gro&szlig;teil der Kinder (etwa 70%) Lesen und Schreiben weder als etwas Notwendiges noch als Bereicherung. 
 
 Wir m&ouml;chten daher zu Beginn der 5. Klasse und darauf aufbauend erreichen, dass Sch&uuml;ler
 
-- selber schreiben wollen, das „Schreibenwollen“ steht noch vor dem „Schreibenk&ouml;nnen“,
+- selber schreiben wollen, das "Schreibenwollen" steht noch vor dem "Schreibenk&ouml;nnen",
 - ein eigenes Interesse entwickeln,
 - sich selbst von Anfang an beim Schreiben als erfolgreich erleben,
 - eigene Schreibideen entwickeln und umsetzen - St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses.
 
-Das Methodentraining „Lernen-lernen“ zu Beginn des 5. Schuljahres enth&auml;lt folgende Bausteine:
+Das Methodentraining "Lernen-lernen" zu Beginn des 5. Schuljahres enth&auml;lt folgende Bausteine:
 
 - m&uuml;ndlicher Sprachgebrauch
 - Lesen
@@ -29,7 +29,7 @@ Das Methodentraining „Lernen-lernen“ zu Beginn des 5. Schuljahres enth&auml;
 - schriftlicher Sprachgebrauch
 - Sprache untersuchen
 
-Schriftlicher Sprachgebrauch ist ein Teil des Projektes „St&auml;rkung des Lese und Rechtschreibverst&auml;ndnisses“. Wir wollen mit unseren Sch&uuml;lern sinnvolle und motivierende Schreibanl&auml;sse finden und diese umsetzen. 
+Schriftlicher Sprachgebrauch ist ein Teil des Projektes "St&auml;rkung des Lese und Rechtschreibverst&auml;ndnisses". Wir wollen mit unseren Sch&uuml;lern sinnvolle und motivierende Schreibanl&auml;sse finden und diese umsetzen. 
 
 Dabei gehen wir wie folgt vor:
 

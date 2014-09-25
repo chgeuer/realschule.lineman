@@ -3,11 +3,13 @@ title:  "Sprech- und -B&uuml;rozeiten"
 published: true
 ---
 
-	Montag     7:15 bis 14:00 Uhr
-	Dienstag   7:15 bis 14:00 Uhr
-	Mittwoch   7:30 bis 12:00 Uhr
-	Donnerstag 7:15 bis 14:00 Uhr
-	Freitag    7:15 bis 13:00 Uhr
+<pre>
+Montag     7:15 bis 14:00 Uhr
+Dienstag   7:15 bis 14:00 Uhr
+Mittwoch   7:30 bis 12:00 Uhr
+Donnerstag 7:15 bis 14:00 Uhr
+Freitag    7:15 bis 13:00 Uhr
+</pre>
 
 - Frau Richter ist dort Ihre Ansprechpartnerin.
 - Telefon: [0211/89-94029](tel:+492118994029)

@@ -7,7 +7,7 @@ published: true
 
 Nicht nur Ihr Kind ist neu an der Realschule Golzheim – auch f&uuml;r Sie wird erst mal alles fremd sein. Damit Sie auch hier schnell vertraute Gesichter und klare Abl&auml;ufe finden, m&ouml;chte die Elternvertretung Ihnen einige Informationen an die Hand geben, die den Einstieg erleichtern:
 
-Die &Uuml;bersicht „Unsere Schule auf einen Blick“ kann – am K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut – bei pl&ouml;tzlichen Fragen eine schnelle Antwort geben. 
+Die &Uuml;bersicht "Unsere Schule auf einen Blick" kann – am K&uuml;chenschrank angepinnt oder im Familien-Kalender verstaut – bei pl&ouml;tzlichen Fragen eine schnelle Antwort geben. 
 
 Dar&uuml;ber hinaus bietet die Internetseite unserer Schule viele Infos. Es lohnt sich, sie regelm&auml;&szlig;ig zu besuchen, weil dort auch tagesaktuelle Schul-Ereignisse, Ank&uuml;ndigungen und R&uuml;ckblicke zu lesen sind! Vor allem soll sie einen tiefen Einblick in den Schulalltag und seine Hintergr&uuml;nde geben...
 

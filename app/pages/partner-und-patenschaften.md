@@ -58,7 +58,7 @@ Der Aquazoo bietet:
 - Nutzung der p&auml;dagogischen Sammlung und R&auml;umlichkeiten des Aquazoos,
 - Freien Eintritt f&uuml;r Sch&uuml;ler und Lehrkr&auml;fte zu unterrichtlichen Zwecken.
 
-In diese Kooperation werden alle Klassenstufen mit speziellen Projekten einbezogen. Im Rahmen eines Sch&uuml;leraustausches des 8fs Kurses konnten wir sogar bereits unsere franz&ouml;sische Partnerschule Collège J.B. de la Quintinye, Noisy-le-Roi bei Paris integrieren. Unter Betreuung durch die Kollegin Mme Riehl aus unserer Partnerschule in Noisy und Herrn Maa&szlig;en haben Sch&uuml;ler Arbeitsb&ouml;gen des Aquazoos zum Thema „Lungen- und Kiemenatmung“ ins Franz&ouml;sische &uuml;bersetzt.
+In diese Kooperation werden alle Klassenstufen mit speziellen Projekten einbezogen. Im Rahmen eines Sch&uuml;leraustausches des 8fs Kurses konnten wir sogar bereits unsere franz&ouml;sische Partnerschule Collège J.B. de la Quintinye, Noisy-le-Roi bei Paris integrieren. Unter Betreuung durch die Kollegin Mme Riehl aus unserer Partnerschule in Noisy und Herrn Maa&szlig;en haben Sch&uuml;ler Arbeitsb&ouml;gen des Aquazoos zum Thema "Lungen- und Kiemenatmung" ins Franz&ouml;sische &uuml;bersetzt.
 
 Halbj&auml;hrlich kommen Vertreter beider Einrichtungen zusammen, um sich &uuml;ber abgeschlossene, laufende und zuk&uuml;nftige Projekte auszutauschen und diese zu evaluieren. Bei den Treffen erfolgt auch eine grunds&auml;tzliche Bewertung der Zusammenarbeit, bei der jeweils einvernehmlich &uuml;ber die Fortf&uuml;hrung oder Aufhebung der Vereinbarung entschieden wird.
 
@@ -78,10 +78,10 @@ Au&szlig;erdem f&uuml;hren die Sozialwissenschaftskurse der 10. Klassen eine Bes
 
 ## Geplante Projekte in Jahrgangsstufe 6
 
-- Unterrichtsgang im Fach Biologie: „Anpassung an den Lebensraum“, z.B. mit Themen wie Fische oder Reptilien 
-- Durchf&uuml;hrung einer Klassenarbeit im Fach Deutsch in den R&auml;umen des Aquazoos zum Thema „Tierbeschreibung“. Die besten Aufs&auml;tze werden an den Aquazoo weitergegeben und k&ouml;nnen am Fenster des betroffenen Tiergeheges ausgestellt und im Rahmen der p&auml;dagogischen Arbeit des Aquazoos weiterverwendet werden. Die ersten Ergebnisse zum Thema „Elli, die Schlange“ wurden ebenfalls am 18. September 2003 von Sch&uuml;lerinnen der Klasse 6c feierlich &uuml;berreicht.
-- Unterrichtsprojekte im Fach Kunst zu den Themen „Tarnung/Warnung im Tierreich“ und „Unterwasserwelten“. Die besten Zeichnungen k&ouml;nnen im Aquazoo ausgestellt werden.
-- Naturschutzprojekt Biologie (evtl. f&auml;cher&uuml;bergreifend) „Amphibien brauchen Hilfe“. 
+- Unterrichtsgang im Fach Biologie: "Anpassung an den Lebensraum", z.B. mit Themen wie Fische oder Reptilien 
+- Durchf&uuml;hrung einer Klassenarbeit im Fach Deutsch in den R&auml;umen des Aquazoos zum Thema "Tierbeschreibung". Die besten Aufs&auml;tze werden an den Aquazoo weitergegeben und k&ouml;nnen am Fenster des betroffenen Tiergeheges ausgestellt und im Rahmen der p&auml;dagogischen Arbeit des Aquazoos weiterverwendet werden. Die ersten Ergebnisse zum Thema "Elli, die Schlange" wurden ebenfalls am 18. September 2003 von Sch&uuml;lerinnen der Klasse 6c feierlich &uuml;berreicht.
+- Unterrichtsprojekte im Fach Kunst zu den Themen "Tarnung/Warnung im Tierreich" und "Unterwasserwelten". Die besten Zeichnungen k&ouml;nnen im Aquazoo ausgestellt werden.
+- Naturschutzprojekt Biologie (evtl. f&auml;cher&uuml;bergreifend) "Amphibien brauchen Hilfe". 
 - Entwicklung eines zukunftsorientierten Konzeptes &uuml;ber Schutzma&szlig;nahmen im Rahmen eines Workshops- 
 
 -->

@@ -3,8 +3,7 @@ title:  "Sch&uuml;ler helfen Sch&uuml;lern"
 published: true
 ---
 
-
-Sch&uuml;ler helfen Sch&uuml;lern – Das Nachhilfeprogramm der Realschule Golzheim
+## Sch&uuml;ler helfen Sch&uuml;lern – Das Nachhilfeprogramm der Realschule Golzheim
 
 Seit Anfang Dezember 2011 ist an unserer Schule ein neuartiges Nachhilfekonzept installiert. In diesem Programm bieten Sch&uuml;lerinnen und Sch&uuml;ler der Klassen 9 und 10 Nachhilfeunterricht f&uuml;r interessierte Sch&uuml;ler unserer Schule an.
 

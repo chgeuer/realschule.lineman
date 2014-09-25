@@ -13,8 +13,10 @@ Die K&uuml;che konnte inzwischen in Betrieb genommen werden. In der 1. Etage, Ra
 
 Fragen zur Organisation und Abwicklung der &uuml;ber-Mittag-Betreuung richten Sie bitte an 
 
-	Jugendfreizeiteinrichtung "Ammerweg"
-	Telefon: 0211 / 41 47 47 
+<pre>
+Jugendfreizeiteinrichtung "Ammerweg"
+Telefon: 0211 / 41 47 47 
+</pre>
 
 ## Hausaufgabenbetreuung
 
@@ -26,10 +28,13 @@ enthalt w&auml;hrend der Mittagszeit bedarf. Informationen sind &uuml;ber das Sc
 F&uuml;r Sch&uuml;ler und Sch&uuml;lerinnen der Klassen 7 bis 10, die ebenfalls Interesse an einer Hausaufgaben-
 betreuung haben, ist dies in der Einrichtung des Jugendklubs Ammerweg von 14 bis 15.30 Uhr kostenlos m&ouml;glich. Sollten Sie dies w&uuml;nschen, nehmen Sie direkt Kontakt mit dem "Ammerweg" auf:
 
-	St&auml;dtische Jugendfreizeiteinrichtung Ammerweg
-	Ammerweg 14-16
-	40468 D&uuml;sseldorf
-	
-	Telefon: 0211 / 41 47 47
-	Fax:     0211 / 41 80 260
-	E-Mail   JC-Ammerweg@gmx.de
+
+<pre>
+St&auml;dtische Jugendfreizeiteinrichtung Ammerweg
+Ammerweg 14-16
+40468 D&uuml;sseldorf
+
+Telefon: <a href="tel:+49211414747">0211 / 41 47 47</a>
+Fax:     0211 / 41 80 260
+E-Mail   <a href="mailto:JC-Ammerweg@gmx.de">JC-Ammerweg@gmx.de</a>
+</pre>

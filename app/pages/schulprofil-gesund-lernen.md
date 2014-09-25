@@ -18,7 +18,7 @@ Das Projekt lief an unserer Schule nach dem Schuljahr 2011/2012 aus, da einige o
 
 ## Gesund lernt es sich besser!
 
-Wir verstehen „Gesundheit“ so, wie es die Weltgesundheitsorganisation (WHO) bereits 1946 definiert hat: „Gesundheit ist der Zustand des vollst&auml;ndigen k&ouml;rperlichen, geistigen und sozialen Wohlbefindens und nicht nur die Abwesenheit von Krankheiten und Gebrechen.“
+Wir verstehen "Gesundheit" so, wie es die Weltgesundheitsorganisation (WHO) bereits 1946 definiert hat: "Gesundheit ist der Zustand des vollst&auml;ndigen k&ouml;rperlichen, geistigen und sozialen Wohlbefindens und nicht nur die Abwesenheit von Krankheiten und Gebrechen."
 
 Unsere Leitlinien: Bef&auml;higung zum gesundheitsbewussten Handeln, Voraussetzungen schaffen f&uuml;r mehr Lernfreude und dadurch bessere Lernleistungen erreichen, Hilfe zur Selbsthilfe durch externe Beratung.
 
@@ -33,7 +33,7 @@ Dar&uuml;ber hinaus soll durch schwerpunktm&auml;&szlig;ige Einzelaktionen in de
 Die Sch&uuml;ler sollen...
 
 - lernen, die Gesundheit als wertvolles Gut des menschlichen Lebens zu erkennen, das dazu bef&auml;higt, den Alltag m&ouml;glichst belastungsfrei, zufrieden, mit Freude und mit einer positiven Lebenseinstellung zu bew&auml;ltigen,
-- erkennen, dass der Zustand der pers&ouml;nlichen Gesundheit, des „Sich-Wohlf&uuml;hlens“, nur durch eine dynamische Balance zwischen sozialer Umwelt, dem Umgang mit dem eigenen K&ouml;rper und der Umwelt zu erreichen ist,
+- erkennen, dass der Zustand der pers&ouml;nlichen Gesundheit, des "Sich-Wohlf&uuml;hlens", nur durch eine dynamische Balance zwischen sozialer Umwelt, dem Umgang mit dem eigenen K&ouml;rper und der Umwelt zu erreichen ist,
 - ihre eigenen Verhaltensweisen beobachten und die Folgen des eigenen Lebensstils f&uuml;r ihre Gesundheit &uuml;berpr&uuml;fen,
 - lernen, ihre eigenen Verhaltensweisen kritisch zu &uuml;berpr&uuml;fen und ggf. &auml;nderungen anzustreben,
 - bef&auml;higt werden, sich gesundheitsbewusst zu ern&auml;hren und zu bewegen, im Ganzen gesundheitsbewusst zu handeln und *gesundheitliche Risken* zu vermeiden,
