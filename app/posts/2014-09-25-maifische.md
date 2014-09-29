@@ -3,12 +3,12 @@ title:  "Der Biologiekurs setzt Maifische im Rhein ein"
 date: "2014-09-25"
 published: true
 author:
-  name: "Janine Brandl und Ulrike Jaegerfeld"
+  name: "Ulrike Jaegerfeld, Janine Brandl"
 ---
 
-# Sch&uuml;ler/innen sorgen f&uuml;r Fisch-Nachwuchs: Maifisch-Besatzaktion am Oberkasseler Rheinufer
-
 Dieser Artikel von Ulrike Jaegerfeld erschien im Original am 1. Juli 2014 auf den [Seiten des Freundeskreises Aquazoo D&uuml;sseldorf](http://aquazoofreundeskreis.wordpress.com/2014/07/01/schueler_maifisch_besatzaktion_am_rhein/).
+
+# Sch&uuml;ler/innen sorgen f&uuml;r Fisch-Nachwuchs: Maifisch-Besatzaktion am Oberkasseler Rheinufer
 
 Auf Einladung des Aquazoo/L&ouml;bbecke-Museums und des Rheinischen Fischereiverbandes verlegte Janine Brandl, Lehrerin an der Realschule Golzheim, ihren Biologiekurs an das Oberkasseler Rheinufer. P&auml;dagogen des Aquazoos sammelten dort mit den Sch&uuml;lerinnen und Sch&uuml;lern wirbellose Tiere im Uferbereich, bestimmten sie, und konnten so Aussagen &uuml;ber die Qualit&auml;t des Rheinwassers treffen. Dann befischte ein Biologenteam des Rheinischen Fischereiverbandes die Buhnenfelder mit einem Uferzugnetz. Die Sch&uuml;lerinnen und Sch&uuml;ler waren verbl&uuml;fft, wie viele Fische in den vergleichsweise kleinen Abschnitten zu finden waren. Bei nur 4 Netzz&uuml;gen wurden viele Arten gefunden, darunter Ukelei, Flussbarsch, Rotauge, Aland und Grundel.
 
