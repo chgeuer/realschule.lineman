@@ -1,5 +1,5 @@
 ---
-title:  "Unsere P&auml;dagogik"
+title:  "Unsere Pädagogik"
 published: true
 ---
 

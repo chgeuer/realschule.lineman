@@ -8,8 +8,8 @@ published: true
 <pre>
 Realschule Tersteegenstrasse
 Petra Steudel, Schulleiterin
-Tersteegenstra&szlig;e 62
-40474 D&uuml;sseldorf
+Tersteegenstraße 62
+40474 Düsseldorf
 Telefon: <a href="tel:+492118994029">(0211) 89-94029</a>
 Telefax: (0211) 89-29228
 Email: rs.tersteegenstr@duesseldorf.de
@@ -23,14 +23,14 @@ Email: rs.tersteegenstr@duesseldorf.de
 Telefon: [(0211) 89-94029](tel:+492118994029)
 </pre>
 
-## Schultr&auml;ger (Diensteanbieter im Sinne des TDG/MDStV):
+## Schulträger (Diensteanbieter im Sinne des TDG/MDStV):
 
 <pre>
-Stadt D&uuml;sseldorf
-Der Oberb&uuml;rgermeister
+Stadt Düsseldorf
+Der Oberbürgermeister
 Schulverwaltungsamt
 Burgplatz 1+2
-40200 D&uuml;sseldorf
+40200 Düsseldorf
 Telefon: <a href="tel:+492118991">(0211) 89-91</a>
 Telefax: (0211) 89-29021
 Email: <a href="mailto:schulverwaltungsamt@duesseldorf.de">schulverwaltungsamt@duesseldorf.de</a>

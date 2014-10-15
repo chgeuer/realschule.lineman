@@ -3,8 +3,8 @@ title:  "Links rund um Schule und Familie"
 published: true
 ---
 
-- Hilfen bei Krisen/Notfallsituationen, Beratungsangebote, &uuml;bersicht &uuml;ber Jugendeinrichtungen, Fachthemen (Link des Jugendamtes der Stadt D&uuml;sseldorf): [Jugendamt der Stadt D&uuml;sseldorf](https://www.duesseldorf.de/jugendamt/)
+- Hilfen bei Krisen/Notfallsituationen, Beratungsangebote, übersicht über Jugendeinrichtungen, Fachthemen (Link des Jugendamtes der Stadt Düsseldorf): [Jugendamt der Stadt Düsseldorf](https://www.duesseldorf.de/jugendamt/)
 - [Verzeichnis aller Selbsthilfegruppen in der Stadt](http://www.duesseldorf.de/gesundheitsamt/hilfen_und_beratung/selbsthilfe/index.shtml)
-- Zum Thema Mobbing: [Sch&uuml;ler gegen Mobbing](www.schueler-gegen-mobbing.de) und [Alle gegen einen - Mobbing an Schulen](http://www.helles-koepfchen.de/mobbing-an-schulen.html)
+- Zum Thema Mobbing: [Schüler gegen Mobbing](www.schueler-gegen-mobbing.de) und [Alle gegen einen - Mobbing an Schulen](http://www.helles-koepfchen.de/mobbing-an-schulen.html)
 - Zum Thema Jugendschutz: www.helles-koepfchen.de
-- [Mein Kind hat geklaut - was nun?](http://www.duesseldorf.de/jugendamt/fam/sd/jgh/kdel.shtml) [<i class="fa fa-envelope-o"></i> Fachstelle Kinderdelinquenz D&uuml;sseldorf](mailto:jgh@duesseldorf.de)
+- [Mein Kind hat geklaut - was nun?](http://www.duesseldorf.de/jugendamt/fam/sd/jgh/kdel.shtml) [<i class="fa fa-envelope-o"></i> Fachstelle Kinderdelinquenz Düsseldorf](mailto:jgh@duesseldorf.de)

@@ -12,6 +12,11 @@
  *   $ lineman config concat.js #=> to see the JS config for the concat task.
  */
 module.exports = function(lineman) {
+	var app = lineman.config.application;
+
+console.log("app.appendTask CHGEUER");
+console.log(JSON.stringify(app.appendTasks));
+
 	return {
 		'jshint': {
 			'options': {
@@ -34,8 +39,39 @@ module.exports = function(lineman) {
 				]
 			}
 		},
+		'replace': { 
+			'generated': {
+				'src': ['generated/*.html'],
+				'replacements': [
+					{ 'from': "ä", 'to': '&auml;' },
+					{ 'from': "ö", 'to': '&ouml;' },
+					{ 'from': "ü", 'to': '&uuml;' },
+					{ 'from': "Ä", 'to': '&Auml;' },
+					{ 'from': "Ö", 'to': '&Ouml;' },
+					{ 'from': "Ü", 'to': '&Uuml;' },
+					{ 'from': "ß", 'to': '&szlig;' }
+				],
+				'overwrite': true
+			},
+			'dist': {
+				'src': ['dist/*.html'],
+				'replacements': [
+					{ 'from': "ä", 'to': '&auml;' },
+					{ 'from': "ö", 'to': '&ouml;' },
+					{ 'from': "ü", 'to': '&uuml;' },
+					{ 'from': "Ä", 'to': '&Auml;' },
+					{ 'from': "Ö", 'to': '&Ouml;' },
+					{ 'from': "Ü", 'to': '&Uuml;' },
+					{ 'from': "ß", 'to': '&szlig;' }
+				],
+				'overwrite': true
+			}
+		},
 		'appTasks' : {
-			'deploy': ["ftpush:prod"]
+			'deploy': ['ftpush:prod']
+		},
+		'appendTasks': {
+			'common': app.appendTasks.common.concat('replace')
 		}
 	};
 };

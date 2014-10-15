@@ -1,52 +1,52 @@
 ---
-title:  "Sanfter &uuml;bergang - Lernen lernen!"
+title:  "Sanfter übergang - Lernen lernen!"
 published: true
 ---
 
 
-Wir wollen Kinder im &uuml;bergang von der Grundschule ...
+Wir wollen Kinder im übergang von der Grundschule ...
 
-- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen ("sanfter &uuml;bergang"),
-- ... in ihren F&auml;higkeiten f&ouml;rdern und in ihrer Leistungsbereitschaft fordern,
-- ... beim Lernen des Lernens unterst&uuml;tzen, d.h. sie zu selbstst&auml;ndigem, ganzheitlichem und sozialem Lernen anhalten,
+- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen ("sanfter übergang"),
+- ... in ihren Fähigkeiten fördern und in ihrer Leistungsbereitschaft fordern,
+- ... beim Lernen des Lernens unterstützen, d.h. sie zu selbstständigem, ganzheitlichem und sozialem Lernen anhalten,
 - ... motivieren, sich selbst zu verbessern und zu korrigieren.
 
-Ein besonders wichtiges Element in dem Projekt "Lernen lernen" ist die St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses. Kinder, die nach der Grundschule in die Sekundarschule wechseln, k&ouml;nnen verst&auml;ndlich schreiben und richtig abschreiben. Sie k&ouml;nnen selbstst&auml;ndig mit Lernw&ouml;rtern &uuml;ben, W&ouml;rter nachschlagen, Texte kontrollieren und korrigieren sowie mit Regeln umgehen. In keinem Bereich und bei keinem Kind sind diese Lernprozesse an ihrem Ende angelangt. Sie m&uuml;ssen vielmehr weiterentwickelt werden. Zudem empfindet ein Gro&szlig;teil der Kinder (etwa 70%) Lesen und Schreiben weder als etwas Notwendiges noch als Bereicherung. 
+Ein besonders wichtiges Element in dem Projekt "Lernen lernen" ist die Stärkung des Lese- und Rechtschreibverständnisses. Kinder, die nach der Grundschule in die Sekundarschule wechseln, können verständlich schreiben und richtig abschreiben. Sie können selbstständig mit Lernwörtern üben, Wörter nachschlagen, Texte kontrollieren und korrigieren sowie mit Regeln umgehen. In keinem Bereich und bei keinem Kind sind diese Lernprozesse an ihrem Ende angelangt. Sie müssen vielmehr weiterentwickelt werden. Zudem empfindet ein Großteil der Kinder (etwa 70%) Lesen und Schreiben weder als etwas Notwendiges noch als Bereicherung. 
 
-Wir m&ouml;chten daher zu Beginn der 5. Klasse und darauf aufbauend erreichen, dass Sch&uuml;ler
+Wir möchten daher zu Beginn der 5. Klasse und darauf aufbauend erreichen, dass Schüler
 
-- selber schreiben wollen, das "Schreibenwollen" steht noch vor dem "Schreibenk&ouml;nnen",
+- selber schreiben wollen, das "Schreibenwollen" steht noch vor dem "Schreibenkönnen",
 - ein eigenes Interesse entwickeln,
 - sich selbst von Anfang an beim Schreiben als erfolgreich erleben,
-- eigene Schreibideen entwickeln und umsetzen - St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses.
+- eigene Schreibideen entwickeln und umsetzen - Stärkung des Lese- und Rechtschreibverständnisses.
 
-Das Methodentraining "Lernen-lernen" zu Beginn des 5. Schuljahres enth&auml;lt folgende Bausteine:
+Das Methodentraining "Lernen-lernen" zu Beginn des 5. Schuljahres enthält folgende Bausteine:
 
-- m&uuml;ndlicher Sprachgebrauch
+- mündlicher Sprachgebrauch
 - Lesen
 - Rechtschreibung
 - Umgang mit Texten
 - schriftlicher Sprachgebrauch
 - Sprache untersuchen
 
-Schriftlicher Sprachgebrauch ist ein Teil des Projektes "St&auml;rkung des Lese und Rechtschreibverst&auml;ndnisses". Wir wollen mit unseren Sch&uuml;lern sinnvolle und motivierende Schreibanl&auml;sse finden und diese umsetzen. 
+Schriftlicher Sprachgebrauch ist ein Teil des Projektes "Stärkung des Lese und Rechtschreibverständnisses". Wir wollen mit unseren Schülern sinnvolle und motivierende Schreibanlässe finden und diese umsetzen. 
 
 Dabei gehen wir wie folgt vor:
 
 - Einen Schreibanlass finden: 
-  - ein Rahmenthema finden: sprachlich pr&auml;sentierte Themen aus dem Interessenbereich der Sch&uuml;ler (z.B. Tagebuch schreiben), Schreiben zu einem thematischen Stichwort, automatisches Schreiben (individuelle thematische Sammlung), Ideensammlung in Gruppen.
-  - Schreiben durch Medien unterst&uuml;tzen, wie z.B. Gegenst&auml;nde, Sachen, Bilder, Musik, Ger&uuml;che.
+  - ein Rahmenthema finden: sprachlich präsentierte Themen aus dem Interessenbereich der Schüler (z.B. Tagebuch schreiben), Schreiben zu einem thematischen Stichwort, automatisches Schreiben (individuelle thematische Sammlung), Ideensammlung in Gruppen.
+  - Schreiben durch Medien unterstützen, wie z.B. Gegenstände, Sachen, Bilder, Musik, Gerüche.
 - Einen Schreibanlass strukturieren: 
-  - eine Schreibidee entwickeln (breites Spektrum von Anregungen durch entsprechende Rahmenthemen). Dabei ist ein differenzierter Schreibanfang m&ouml;glich: Wer etwas zu schreiben hat, schreibt. Wer Zeit zum Nachdenken braucht, bekommt diese. Wer eine weitere Anregung braucht, f&uuml;hrt ein Gespr&auml;ch.
-  - einen Text schreiben: Die Sch&uuml;ler erhalten dabei den Freiraum f&uuml;r individuelle Gestaltung und Umsetzung. Ein differenziertes Ende des Schreibens ist m&ouml;glich.
-  - Textpr&auml;sentation: Wer seinen Text fertiggestellt hat, trifft sich mit anderen Kindern in einer kleinen Gruppe. Sie lesen sich ihre Texte vor. Diese Rituale k&ouml;nnen regelm&auml;&szlig;ig ge&uuml;bt werden, z.B. auch im Stuhlkreis, als Vorlesestunde, als Gestaltung einer Geschichtenwand oder eines Geschichtenbuches.
-  - Zum Ende der Schreibidee werden eine Rechtschreibkorrektur und die &uuml;berarbeitung des Textes vorgenommen.
-- Fu&szlig; fassen 
-  - Um die Sch&uuml;ler in der Orientierungsphase nach dem &uuml;bergang auf unsere Schule zu unterst&uuml;tzen, findet ihr Unterricht in den ersten ein bis zwei Wochen fast ausschlie&szlig;lich bei ihrem neuen Klassenlehrer statt, der in dieser Zeit in seinen &uuml;brigen Klassen als Fachlehrer vertreten wird. 
+  - eine Schreibidee entwickeln (breites Spektrum von Anregungen durch entsprechende Rahmenthemen). Dabei ist ein differenzierter Schreibanfang möglich: Wer etwas zu schreiben hat, schreibt. Wer Zeit zum Nachdenken braucht, bekommt diese. Wer eine weitere Anregung braucht, führt ein Gespräch.
+  - einen Text schreiben: Die Schüler erhalten dabei den Freiraum für individuelle Gestaltung und Umsetzung. Ein differenziertes Ende des Schreibens ist möglich.
+  - Textpräsentation: Wer seinen Text fertiggestellt hat, trifft sich mit anderen Kindern in einer kleinen Gruppe. Sie lesen sich ihre Texte vor. Diese Rituale können regelmäßig geübt werden, z.B. auch im Stuhlkreis, als Vorlesestunde, als Gestaltung einer Geschichtenwand oder eines Geschichtenbuches.
+  - Zum Ende der Schreibidee werden eine Rechtschreibkorrektur und die überarbeitung des Textes vorgenommen.
+- Fuß fassen 
+  - Um die Schüler in der Orientierungsphase nach dem übergang auf unsere Schule zu unterstützen, findet ihr Unterricht in den ersten ein bis zwei Wochen fast ausschließlich bei ihrem neuen Klassenlehrer statt, der in dieser Zeit in seinen übrigen Klassen als Fachlehrer vertreten wird. 
 
-Einige Empfehlungen zur St&auml;rkung des Lese- und Rechtschreibverst&auml;ndnisses:
+Einige Empfehlungen zur Stärkung des Lese- und Rechtschreibverständnisses:
 
 - eine Schreibwerkstatt im Klassenraum einrichten,
-- die Sch&uuml;lerbibliothek nutzen,
-- pro Schulhalbjahr ein (f&auml;cher&uuml;bergreifendes) Lekt&uuml;reprojekt durchf&uuml;hren. 
+- die Schülerbibliothek nutzen,
+- pro Schulhalbjahr ein (fächerübergreifendes) Lektüreprojekt durchführen. 
 
