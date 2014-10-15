@@ -6,8 +6,6 @@ author:
   name: "Ulrike Jaegerfeld, Janine Brandl"
 ---
 
-üüü
-
 Dieser Artikel von Ulrike Jaegerfeld erschien im Original am 1. Juli 2014 auf den [Seiten des Freundeskreises Aquazoo Düsseldorf](http://aquazoofreundeskreis.wordpress.com/2014/07/01/schueler_maifisch_besatzaktion_am_rhein/).
 
 # Schüler/innen sorgen für Fisch-Nachwuchs: Maifisch-Besatzaktion am Oberkasseler Rheinufer
