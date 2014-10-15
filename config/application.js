@@ -14,9 +14,6 @@
 module.exports = function(lineman) {
 	var app = lineman.config.application;
 
-console.log("app.appendTask CHGEUER");
-console.log(JSON.stringify(app.appendTasks));
-
 	return {
 		'jshint': {
 			'options': {
