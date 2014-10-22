@@ -6,7 +6,7 @@ published: true
 
 Wir wollen Kinder im übergang von der Grundschule ...
 
-- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen ("sanfter übergang"),
+- ... da abholen, wo sie am Ende ihrer Grundschulzeit stehen ("sanfter Übergang"),
 - ... in ihren Fähigkeiten fördern und in ihrer Leistungsbereitschaft fordern,
 - ... beim Lernen des Lernens unterstützen, d.h. sie zu selbstständigem, ganzheitlichem und sozialem Lernen anhalten,
 - ... motivieren, sich selbst zu verbessern und zu korrigieren.

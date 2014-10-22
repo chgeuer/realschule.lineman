@@ -2,13 +2,6 @@
 
 <p>Wir begr&uuml;&szlig;en Sie auf den Seiten der Realschule Golzheim und hoffen, dass Sie alle Informationen finden. Unsere Internetseite richtet sich an Besucher, an die Eltern, die Sch&uuml;ler und an die Lehrer. Sie dient auch dem Informationsaustausch innerhalb der Schule! </p>
 
-
-<h2>1. D&uuml;sseldorfer Realschultag</h2>
-<p>Am Donnerstag, den 23. Oktober 2014, ist der 1. D&uuml;sseldorfer Realschultag <a href="http://realschulen-duesseldorf.de/6-0-Aktuelle-Termine.html">www.realschulen-duesseldorf.de</a>). Vormittags k&ouml;nnen die Grundschulen einen Schulbesuch mit ihrer Klasse machen, nachmittags ab 14:00 findet das Austauschcafe (f&uuml;r Grundschullehrer und -lehrerinnen) statt, und Abends ab 19:30 finden in der <a href="http://schulen.duesseldorf.de/rs-faerberstr/">Freiherr-vom-Stein-Realschule</a> und <a href="http://www.thomas-edison-realschule.de/">Thomas-Edison-Realschule</a> einst&uuml;ndige Informations-Abende f&uuml;r Eltern statt. </p>
-
-<p><img src="http://schulen.duesseldorf.de/rs-faerberstr/realschultag/files/flyer.jpg"></img></src>
-
-
 <h2>Aktuelle Blog-Eintr&auml;ge</h2>
 
 <ul>
@@ -19,4 +12,9 @@
 <% }) %>
 <li><a href="./blog.html">Alle Eintr&auml;ge</a></li>
 </ul>
+
+<h2>1. D&uuml;sseldorfer Realschultag</h2>
+<p>Am Donnerstag, den 23. Oktober 2014, ist der 1. D&uuml;sseldorfer Realschultag <a href="http://realschulen-duesseldorf.de/6-0-Aktuelle-Termine.html">www.realschulen-duesseldorf.de</a>). Vormittags k&ouml;nnen die Grundschulen einen Schulbesuch mit ihrer Klasse machen, nachmittags ab 14:00 findet das Austauschcafe (f&uuml;r Grundschullehrer und -lehrerinnen) statt, und Abends ab 19:30 finden in der <a href="http://schulen.duesseldorf.de/rs-faerberstr/">Freiherr-vom-Stein-Realschule</a> und <a href="http://www.thomas-edison-realschule.de/">Thomas-Edison-Realschule</a> einst&uuml;ndige Informations-Abende f&uuml;r Eltern statt. </p>
+
+<p><img src="http://schulen.duesseldorf.de/rs-faerberstr/realschultag/files/flyer.jpg"></img></src>
 
