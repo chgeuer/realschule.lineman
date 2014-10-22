@@ -3,15 +3,15 @@ title:  "Wir sind gut drauf! Meistens..."
 published: true
 ---
 
-# "Wir helfen, wenn Du nicht mehr weiter wei&szlig;t"
+# "Wir helfen, wenn Du nicht mehr weiter weißt"
 
-## Online-Beratung des Schulpsychologischen Dienstes der Stadt D&uuml;sseldorf
+## Online-Beratung des Schulpsychologischen Dienstes der Stadt Düsseldorf
 
-Manchmal kommt man alleine nicht weiter, wenn es in der Schule &auml;rger gibt oder der Frust zu gro&szlig; wird. Hast du Fragen rund um das Thema Schule, brauchst du Hilfe oder machst du dir Sorgen um einen Freund? Dann lass dich online beraten! Alle D&uuml;sseldorfer Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen sich per E-Mail direkt an uns wenden.
+Manchmal kommt man alleine nicht weiter, wenn es in der Schule ärger gibt oder der Frust zu groß wird. Hast du Fragen rund um das Thema Schule, brauchst du Hilfe oder machst du dir Sorgen um einen Freund? Dann lass dich online beraten! Alle Düsseldorfer Schülerinnen und Schüler können sich per E-Mail direkt an uns wenden.
 
 ## Beratung per E-Mail – bringt das was?
 
-Na, klar! Nat&uuml;rlich kann eine Online-Beratung kein pers&ouml;nliches Gespr&auml;ch ersetzen, aber sie ist ein Anfang. Und bietet auch Vorteile: Du bleibst anonym und musst nicht zu uns kommen. Unsere Online-Beratung ist selbstverst&auml;ndlich genauso streng vertraulich wie die Beratungsgespr&auml;che.
+Na, klar! Natürlich kann eine Online-Beratung kein persönliches Gespräch ersetzen, aber sie ist ein Anfang. Und bietet auch Vorteile: Du bleibst anonym und musst nicht zu uns kommen. Unsere Online-Beratung ist selbstverständlich genauso streng vertraulich wie die Beratungsgespräche.
 
 ## Wir antworten schnell. Versprochen!
 
@@ -19,7 +19,7 @@ Montags bis freitags beantworten wir Fragen innerhalb von 2 Arbeitstagen, am Woc
 
 ## Nummer gegen Kummer
 
-Sch&uuml;lertelefon bundesweit: Telefon [0800 111 0 333](tel:+498001110333) Montag bis Freitag von 15.00 bis 17.00 Uhr (freecall – keine Telefongeb&uuml;hren)
+Schülertelefon bundesweit: Telefon [0800 111 0 333](tel:+498001110333) Montag bis Freitag von 15.00 bis 17.00 Uhr (freecall – keine Telefongebühren)
 
 Bei Problemen, die mit der Schule nichts zu tun haben, schau auf die Seite der [Jugendberatung](https://www.bke-beratung.de/User/). Hier gibt es Tipps und Sprechstunden im Einzelchat. 
 
