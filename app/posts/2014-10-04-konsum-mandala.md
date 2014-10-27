@@ -1,5 +1,5 @@
 ---
-title:  "Einladung zum Projekt 'Ein Konsum-Mandala f&uuml;r D&uuml;sseldorf' am 30. Oktober"
+title:  "Einladung zum Projekt 'Ein Konsum-Mandala für Düsseldorf' am 30. Oktober"
 date: "2014-10-04"
 published: true
 author:
@@ -8,19 +8,19 @@ author:
 
 <img src="img/2014/10/04/konsummandala.jpg"></img>
 
-Liebe Eltern, liebe Sch&uuml;lerinnen und Sch&uuml;ler, liebe D&uuml;sseldorfer, 
+Liebe Eltern, liebe Schülerinnen und Schüler, liebe Düsseldorfer, 
 
-wir laden Sie recht herzlich zu unserem Projekt "Ein Konsum-Mandala f&uuml;r D&uuml;sseldorf" am *30.10.2014 von 14.00 Uhr bis 18.00 Uhr* in der St&auml;dtischen Realschule Golzheim, Tersteegenstrasse 62, 40474 D&uuml;sseldorf ein. 
+wir laden Sie recht herzlich zu unserem Projekt "Ein Konsum-Mandala für Düsseldorf" am *30.10.2014 von 14.00 Uhr bis 18.00 Uhr* in der Städtischen Realschule Golzheim, Tersteegenstrasse 62, 40474 Düsseldorf ein. 
 
-Der 10er Jahrgangs-Kurs Sozialwissenschaften der Realschule Golzheim f&uuml;hrt ein Projekt gegen Lebensmittelverschwendung durch, um den Verbrauchern die Wertsch&auml;tzung der Lebensmittel wieder n&auml;her zu bringen. 
+Der 10er Jahrgangs-Kurs Sozialwissenschaften der Realschule Golzheim führt ein Projekt gegen Lebensmittelverschwendung durch, um den Verbrauchern die Wertschätzung der Lebensmittel wieder näher zu bringen. 
 
-Der H&ouml;hepunkt der Veranstaltung ist das Konsum-Mandala. Die Sch&uuml;ler kaufen nach einer Skizze vor Ort Produkte, die &uuml;berwiegend in der D&uuml;sseldorfer Region angebaut oder produziert werden. Am 30.10.2014 werden diese auf dem Schulhof zu einem gro&szlig;en Mandala auslegt. Im sch&ouml;nen Muster finden Lebensmittel, sortiert nach Farben und Formen – zusammen. Uns geht es vor allen Dingen um die bewusste Wertsch&auml;tzung und eine differenzierte Wahrnehmung der Konsumg&uuml;ter. Begleitend findet in der Aula eine Sch&uuml;lerpr&auml;sentation mit anschlie&szlig;ender Frage- und Diskussionsrunde statt. An Informationsst&auml;nden k&ouml;nnen Interessierte Fragen zum Thema stellen, die von den Sch&uuml;lern gerne beantwortet werden. F&uuml;r das leibliche Wohl werden Getr&auml;nke und Kuchen verkauft. 
+Der Höhepunkt der Veranstaltung ist das Konsum-Mandala. Die Schüler kaufen nach einer Skizze vor Ort Produkte, die überwiegend in der Düsseldorfer Region angebaut oder produziert werden. Am 30.10.2014 werden diese auf dem Schulhof zu einem großen Mandala auslegt. Im schönen Muster finden Lebensmittel, sortiert nach Farben und Formen – zusammen. Uns geht es vor allen Dingen um die bewusste Wertschätzung und eine differenzierte Wahrnehmung der Konsumgüter. Begleitend findet in der Aula eine Schülerpräsentation mit anschließender Frage- und Diskussionsrunde statt. An Informationsständen können Interessierte Fragen zum Thema stellen, die von den Schülern gerne beantwortet werden. Für das leibliche Wohl werden Getränke und Kuchen verkauft. 
 
-Das Kunstwerk besteht f&uuml;r 4 Stunden. Wie die Konsumg&uuml;ter auf die Betrachter einwirken und zum Reflektieren des eigenen Konsumverhaltens bewegen, ist wesentlicher Bestandteil der Veranstaltung. Danach wird das Mandala aufgel&ouml;st. Die Lebensmittel werden weiterverwendet und zu schmackhaften Smoothies verarbeitet, die an die G&auml;ste serviert werden. Der Rest der Lebensmittel wird zu einem k&ouml;stlichen Abendmahl in unserer K&uuml;che vorbereitet und anschlie&szlig;end in gem&uuml;tlicher Runde verspeist.
+Das Kunstwerk besteht für 4 Stunden. Wie die Konsumgüter auf die Betrachter einwirken und zum Reflektieren des eigenen Konsumverhaltens bewegen, ist wesentlicher Bestandteil der Veranstaltung. Danach wird das Mandala aufgelöst. Die Lebensmittel werden weiterverwendet und zu schmackhaften Smoothies verarbeitet, die an die Gäste serviert werden. Der Rest der Lebensmittel wird zu einem köstlichen Abendmahl in unserer Küche vorbereitet und anschließend in gemütlicher Runde verspeist.
 
-Wir w&uuml;rden uns sehr freuen, wenn Sie zahlreich erscheinen w&uuml;rden, um uns in unserer Botschaft zu unterst&uuml;tzen. 
+Wir würden uns sehr freuen, wenn Sie zahlreich erscheinen würden, um uns in unserer Botschaft zu unterstützen. 
 
-Viele Gr&uuml;&szlig;e
+Viele Grüße
 
  - 10er SW Kurs der Realschule Golzheim- 
 
