@@ -68,7 +68,8 @@ module.exports = function(lineman) {
 			'deploy': ['ftpush:prod']
 		},
 		'appendTasks': {
-			'common': app.appendTasks.common.concat('replace')
+			'common': app.appendTasks.common.concat('replace'),
+			'dist': app.appendTasks.common.concat('replace')
 		}
 	};
 };
